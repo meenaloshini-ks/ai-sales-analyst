@@ -1,0 +1,11 @@
+.env
+venv/
+.venv/
+**/venv/
+__pycache__/
+*.pyc
+charts/
+.streamlit/secrets.toml
+test_huggingface.py
+/indian_retail_sales_1000.csv
+/app/

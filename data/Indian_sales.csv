@@ -1,0 +1,1001 @@
+Date,Product,Category,City,State,Sales_INR,Quantity,Customer_ID,Customer_Type,Gender,Age,Payment_Method
+04-Jan-2025,Smart TV,Electronics,Hyderabad,Telangana,1274656,8,C0172,Returning,Male,45,UPI
+04-Nov-2025,Router,Electronics,Pune,Maharashtra,283716,6,C0305,New,Female,61,Cash
+07-Aug-2025,Printer,Electronics,Delhi,Delhi,1128276,4,C0046,New,Male,47,Cash
+22-May-2025,Laptop,Electronics,Coimbatore,Tamil Nadu,1375842,6,C0259,Returning,Female,58,Credit Card
+16-May-2025,Study Desk,Furniture,Mumbai,Maharashtra,610168,4,C0047,Returning,Female,50,Cash
+31-Mar-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,139156,2,C0110,Returning,Male,24,UPI
+01-Oct-2025,SSD,Electronics,Ahmedabad,Gujarat,571272,6,C0004,Returning,Female,36,Cash
+21-Nov-2025,Mixer Grinder,Home Appliances,Chennai,Tamil Nadu,215700,1,C0196,New,Female,48,EMI
+17-Feb-2025,Office Chair,Furniture,Kochi,Kerala,384528,3,C0085,Returning,Male,46,UPI
+24-Dec-2025,Mouse,Electronics,Kochi,Kerala,153710,5,C0324,Returning,Female,47,Net Banking
+17-Sep-2025,Air Fryer,Home Appliances,Kochi,Kerala,442846,2,C0017,Returning,Male,31,Debit Card
+11-Mar-2025,Wardrobe,Furniture,Chennai,Tamil Nadu,1673238,7,C0267,Returning,Female,26,EMI
+18-Sep-2025,Office Chair,Furniture,Delhi,Delhi,1727341,7,C0172,New,Female,59,EMI
+26-Jul-2025,Bookshelf,Furniture,Chennai,Tamil Nadu,633650,5,C0001,Returning,Male,49,Debit Card
+15-Sep-2025,Washing Machine,Home Appliances,Pune,Maharashtra,364078,2,C0103,New,Male,18,UPI
+08-Apr-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,300236,2,C0113,New,Male,61,EMI
+25-Sep-2025,Mouse,Electronics,Coimbatore,Tamil Nadu,1289424,4,C0203,Returning,Female,45,UPI
+09-May-2025,Sofa,Furniture,Kolkata,West Bengal,893578,7,C0203,Returning,Male,36,Credit Card
+10-Oct-2025,Bookshelf,Furniture,Mumbai,Maharashtra,158398,2,C0271,Returning,Female,43,UPI
+17-Nov-2025,Mobile,Electronics,Delhi,Delhi,2300970,7,C0126,New,Male,57,Debit Card
+25-Oct-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,176178,2,C0287,Returning,Male,42,UPI
+05-Oct-2025,Washing Machine,Home Appliances,Kochi,Kerala,573978,3,C0229,New,Female,56,UPI
+13-Jun-2025,Bookshelf,Furniture,Coimbatore,Tamil Nadu,2412536,7,C0221,New,Male,65,UPI
+14-Mar-2025,Office Chair,Furniture,Ahmedabad,Gujarat,756831,3,C0295,Returning,Male,54,Net Banking
+22-Jan-2025,Study Desk,Furniture,Chennai,Tamil Nadu,2606024,8,C0398,Returning,Female,61,UPI
+16-May-2025,Air Conditioner,Home Appliances,Hyderabad,Telangana,1267938,6,C0021,New,Female,41,Debit Card
+30-Jul-2025,Refrigerator,Home Appliances,Delhi,Delhi,335705,5,C0366,Returning,Female,54,EMI
+03-Jun-2025,Microwave,Home Appliances,Ahmedabad,Gujarat,31604,1,C0390,New,Female,36,Cash
+16-Feb-2025,Wardrobe,Furniture,Ahmedabad,Gujarat,430192,2,C0129,Returning,Female,27,EMI
+04-Jul-2025,Monitor,Electronics,Hyderabad,Telangana,2061934,7,C0111,Returning,Female,24,Net Banking
+01-Feb-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,327406,2,C0051,Returning,Male,29,Net Banking
+26-Mar-2025,Printer,Electronics,Ahmedabad,Gujarat,1368114,6,C0221,Returning,Female,65,EMI
+26-Feb-2025,Study Desk,Furniture,Kolkata,West Bengal,817344,4,C0224,New,Male,37,EMI
+04-Apr-2025,Dining Table,Furniture,Pune,Maharashtra,766955,5,C0153,Returning,Male,64,Cash
+14-Jul-2025,Air Fryer,Home Appliances,Kochi,Kerala,829443,3,C0151,Returning,Female,20,EMI
+22-Aug-2025,Mixer Grinder,Home Appliances,Pune,Maharashtra,854560,8,C0190,New,Female,45,EMI
+15-Jul-2025,Bookshelf,Furniture,Pune,Maharashtra,655109,7,C0281,New,Male,63,Debit Card
+08-Dec-2025,Microwave,Home Appliances,Pune,Maharashtra,1138005,5,C0358,Returning,Female,63,Cash
+21-Jul-2025,Sofa,Furniture,Mumbai,Maharashtra,1035230,7,C0007,New,Female,19,Debit Card
+22-Dec-2025,Tablet,Electronics,Ahmedabad,Gujarat,210942,6,C0273,Returning,Male,18,UPI
+23-Dec-2025,Air Conditioner,Home Appliances,Bengaluru,Karnataka,1531584,6,C0125,New,Male,43,Credit Card
+07-Aug-2025,Mouse,Electronics,Ahmedabad,Gujarat,1551280,5,C0126,New,Female,35,UPI
+05-Aug-2025,Washing Machine,Home Appliances,Kolkata,West Bengal,2454048,8,C0015,Returning,Male,46,Debit Card
+07-Oct-2025,Camera,Electronics,Pune,Maharashtra,1713515,5,C0050,New,Male,26,Credit Card
+19-May-2025,Mixer Grinder,Home Appliances,Delhi,Delhi,119370,2,C0356,New,Male,28,UPI
+30-Jul-2025,Mobile,Electronics,Coimbatore,Tamil Nadu,319511,1,C0184,Returning,Male,53,Net Banking
+20-Aug-2025,Sofa,Furniture,Ahmedabad,Gujarat,94809,1,C0084,New,Female,30,Debit Card
+24-Jan-2025,Sofa,Furniture,Mumbai,Maharashtra,85168,2,C0195,Returning,Female,22,Debit Card
+18-Aug-2025,Microwave,Home Appliances,Coimbatore,Tamil Nadu,1213792,4,C0145,Returning,Female,42,EMI
+29-Sep-2025,Mixer Grinder,Home Appliances,Mumbai,Maharashtra,622275,3,C0227,New,Female,38,Net Banking
+04-Nov-2025,Bookshelf,Furniture,Kolkata,West Bengal,2306668,7,C0085,Returning,Male,33,Credit Card
+12-Jul-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,1431184,8,C0076,New,Male,38,UPI
+14-Nov-2025,Sofa,Furniture,Pune,Maharashtra,263536,4,C0368,New,Male,61,Net Banking
+17-Nov-2025,Mixer Grinder,Home Appliances,Coimbatore,Tamil Nadu,763815,3,C0386,New,Female,34,Credit Card
+29-Sep-2025,Office Chair,Furniture,Pune,Maharashtra,691544,2,C0381,Returning,Female,42,Debit Card
+07-Aug-2025,Monitor,Electronics,Pune,Maharashtra,1435518,6,C0062,Returning,Male,31,Cash
+03-Jan-2025,Refrigerator,Home Appliances,Delhi,Delhi,1252830,5,C0053,Returning,Female,46,UPI
+05-Jan-2025,Refrigerator,Home Appliances,Kochi,Kerala,1113360,8,C0037,Returning,Female,56,UPI
+05-Apr-2025,Mixer Grinder,Home Appliances,Mumbai,Maharashtra,315140,4,C0106,Returning,Female,29,EMI
+26-Apr-2025,SSD,Electronics,Hyderabad,Telangana,2384970,7,C0351,Returning,Female,63,UPI
+27-Dec-2025,Microwave,Home Appliances,Mumbai,Maharashtra,1654500,5,C0043,New,Male,24,Net Banking
+24-Jan-2025,Air Conditioner,Home Appliances,Coimbatore,Tamil Nadu,1525944,8,C0158,Returning,Female,46,Debit Card
+03-Jun-2025,Mouse,Electronics,Kochi,Kerala,916503,3,C0108,Returning,Male,36,UPI
+04-Aug-2025,Tablet,Electronics,Kolkata,West Bengal,566124,3,C0122,Returning,Male,43,Debit Card
+20-Jun-2025,Microwave,Home Appliances,Coimbatore,Tamil Nadu,1323385,7,C0014,New,Female,53,Net Banking
+03-Jun-2025,Headphones,Electronics,Pune,Maharashtra,1650887,7,C0178,New,Female,31,UPI
+27-Jun-2025,Gaming Laptop,Electronics,Kolkata,West Bengal,494090,5,C0092,New,Male,63,Debit Card
+08-Oct-2025,Sofa,Furniture,Kochi,Kerala,1076243,7,C0373,Returning,Male,57,EMI
+13-May-2025,Headphones,Electronics,Hyderabad,Telangana,350248,4,C0109,New,Female,35,Credit Card
+20-Jun-2025,Microwave,Home Appliances,Hyderabad,Telangana,301630,2,C0361,New,Male,62,Net Banking
+27-Jul-2025,Study Desk,Furniture,Hyderabad,Telangana,490218,2,C0268,New,Female,55,Credit Card
+30-Jun-2025,Bookshelf,Furniture,Bengaluru,Karnataka,330423,1,C0323,New,Male,23,Net Banking
+07-Dec-2025,Monitor,Electronics,Bengaluru,Karnataka,1676912,8,C0330,Returning,Male,37,Net Banking
+10-Jul-2025,Bookshelf,Furniture,Mumbai,Maharashtra,329004,4,C0367,New,Female,35,Cash
+12-Feb-2025,Refrigerator,Home Appliances,Pune,Maharashtra,1044576,6,C0313,New,Male,56,EMI
+05-Feb-2025,Keyboard,Electronics,Kochi,Kerala,1123200,4,C0283,Returning,Male,21,UPI
+27-Feb-2025,Refrigerator,Home Appliances,Coimbatore,Tamil Nadu,52831,1,C0099,Returning,Male,27,Debit Card
+27-May-2025,Laptop,Electronics,Chennai,Tamil Nadu,2233216,8,C0132,New,Female,37,Cash
+02-Feb-2025,Sofa,Furniture,Delhi,Delhi,332580,5,C0061,New,Male,41,EMI
+15-Oct-2025,SSD,Electronics,Coimbatore,Tamil Nadu,633748,4,C0298,Returning,Male,63,Cash
+13-Nov-2025,Router,Electronics,Chennai,Tamil Nadu,1628244,6,C0229,Returning,Male,60,EMI
+28-Jan-2025,Smart Watch,Electronics,Delhi,Delhi,301672,1,C0121,Returning,Female,41,Debit Card
+04-May-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,1450120,5,C0159,New,Male,37,Cash
+10-May-2025,Keyboard,Electronics,Coimbatore,Tamil Nadu,904588,4,C0291,Returning,Female,20,Debit Card
+27-Apr-2025,Mixer Grinder,Home Appliances,Ahmedabad,Gujarat,567246,2,C0213,Returning,Female,18,Cash
+17-Jul-2025,Wardrobe,Furniture,Chennai,Tamil Nadu,1520390,5,C0379,Returning,Male,60,Debit Card
+25-Dec-2025,Bookshelf,Furniture,Delhi,Delhi,135280,5,C0228,Returning,Female,61,Credit Card
+25-Jun-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,1782039,7,C0198,Returning,Male,64,Cash
+13-Mar-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,396368,8,C0287,New,Male,59,UPI
+12-Sep-2025,Air Fryer,Home Appliances,Chennai,Tamil Nadu,741162,3,C0010,Returning,Male,51,Credit Card
+04-Apr-2025,Air Fryer,Home Appliances,Bengaluru,Karnataka,743934,6,C0338,Returning,Female,57,EMI
+23-Jan-2025,SSD,Electronics,Kolkata,West Bengal,1122095,5,C0048,Returning,Female,22,Credit Card
+12-May-2025,Mouse,Electronics,Coimbatore,Tamil Nadu,89361,1,C0091,New,Male,20,Debit Card
+13-Nov-2025,Wardrobe,Furniture,Pune,Maharashtra,971025,3,C0377,Returning,Male,51,UPI
+24-Sep-2025,Keyboard,Electronics,Hyderabad,Telangana,338028,4,C0224,New,Female,33,Credit Card
+30-May-2025,Dining Table,Furniture,Pune,Maharashtra,47298,2,C0011,Returning,Male,35,Net Banking
+20-May-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,418672,4,C0310,Returning,Male,62,UPI
+14-Aug-2025,Mobile,Electronics,Kolkata,West Bengal,146266,2,C0387,Returning,Female,61,UPI
+05-Jul-2025,Study Desk,Furniture,Chennai,Tamil Nadu,739792,4,C0162,New,Female,32,Credit Card
+01-Feb-2025,Bookshelf,Furniture,Mumbai,Maharashtra,1086664,4,C0335,New,Male,32,Net Banking
+19-Feb-2025,Smart Watch,Electronics,Bengaluru,Karnataka,66655,1,C0229,Returning,Male,62,Credit Card
+04-Oct-2025,Microwave,Home Appliances,Mumbai,Maharashtra,2235088,8,C0125,Returning,Male,24,Net Banking
+19-Sep-2025,Microwave,Home Appliances,Chennai,Tamil Nadu,898744,7,C0032,New,Male,49,Net Banking
+19-Nov-2025,Air Conditioner,Home Appliances,Mumbai,Maharashtra,319759,1,C0113,Returning,Female,31,Net Banking
+07-Jan-2025,Air Fryer,Home Appliances,Hyderabad,Telangana,109046,1,C0243,Returning,Female,40,Net Banking
+13-Aug-2025,Tablet,Electronics,Kolkata,West Bengal,129512,4,C0378,New,Female,38,UPI
+25-Jun-2025,Study Desk,Furniture,Bengaluru,Karnataka,97154,2,C0148,Returning,Male,37,EMI
+23-Nov-2025,Laptop,Electronics,Chennai,Tamil Nadu,1239905,5,C0195,New,Male,37,Credit Card
+09-Aug-2025,Air Fryer,Home Appliances,Bengaluru,Karnataka,254193,1,C0118,Returning,Male,27,UPI
+24-Nov-2025,Laptop,Electronics,Ahmedabad,Gujarat,1737904,7,C0385,Returning,Male,37,Debit Card
+21-Feb-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,1814904,7,C0273,Returning,Male,60,UPI
+14-Feb-2025,Tablet,Electronics,Coimbatore,Tamil Nadu,1564355,5,C0198,New,Male,18,UPI
+03-Nov-2025,Washing Machine,Home Appliances,Chennai,Tamil Nadu,295642,1,C0017,New,Male,56,Net Banking
+15-Jul-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,902529,3,C0278,New,Female,58,Credit Card
+30-Sep-2025,Bookshelf,Furniture,Bengaluru,Karnataka,1080912,7,C0129,New,Female,18,Credit Card
+03-Dec-2025,Smart Watch,Electronics,Chennai,Tamil Nadu,1351784,4,C0339,Returning,Male,44,Credit Card
+30-Apr-2025,Air Conditioner,Home Appliances,Bengaluru,Karnataka,45495,3,C0315,New,Male,38,EMI
+18-May-2025,Mouse,Electronics,Chennai,Tamil Nadu,1235768,4,C0141,New,Female,21,EMI
+23-Aug-2025,Sofa,Furniture,Kochi,Kerala,65856,3,C0285,New,Female,28,Debit Card
+27-Aug-2025,Laptop,Electronics,Bengaluru,Karnataka,665920,8,C0355,New,Female,27,Credit Card
+18-Mar-2025,Keyboard,Electronics,Bengaluru,Karnataka,1754624,8,C0137,Returning,Male,61,Credit Card
+12-Feb-2025,Keyboard,Electronics,Kolkata,West Bengal,1629663,7,C0268,New,Male,60,Credit Card
+03-Jan-2025,Mobile,Electronics,Bengaluru,Karnataka,326131,1,C0297,Returning,Male,33,EMI
+26-Sep-2025,Sofa,Furniture,Delhi,Delhi,1183320,8,C0389,New,Female,63,Credit Card
+29-Apr-2025,Smart Watch,Electronics,Bengaluru,Karnataka,358542,6,C0197,New,Male,31,EMI
+04-Aug-2025,Dining Table,Furniture,Kolkata,West Bengal,1309850,5,C0233,New,Male,42,EMI
+29-Jun-2025,Air Conditioner,Home Appliances,Bengaluru,Karnataka,2062080,8,C0197,New,Female,51,UPI
+04-Dec-2025,Wardrobe,Furniture,Kochi,Kerala,246030,3,C0044,New,Female,25,Net Banking
+21-Sep-2025,Tablet,Electronics,Mumbai,Maharashtra,48462,1,C0132,Returning,Female,55,EMI
+16-Sep-2025,Microwave,Home Appliances,Delhi,Delhi,1419348,7,C0125,Returning,Female,60,Net Banking
+12-May-2025,Air Conditioner,Home Appliances,Kochi,Kerala,736560,6,C0385,Returning,Male,54,EMI
+13-Nov-2025,Bookshelf,Furniture,Kolkata,West Bengal,552462,3,C0065,New,Female,34,Credit Card
+27-Jul-2025,Laptop,Electronics,Delhi,Delhi,1610312,8,C0214,New,Male,55,EMI
+09-Aug-2025,Camera,Electronics,Coimbatore,Tamil Nadu,62766,1,C0111,Returning,Female,43,Credit Card
+26-Jul-2025,Bookshelf,Furniture,Coimbatore,Tamil Nadu,639560,5,C0384,Returning,Male,45,EMI
+12-Nov-2025,Bookshelf,Furniture,Coimbatore,Tamil Nadu,322068,3,C0396,Returning,Female,31,EMI
+27-Jan-2025,SSD,Electronics,Kolkata,West Bengal,531384,8,C0090,Returning,Female,48,EMI
+12-Jan-2025,Microwave,Home Appliances,Coimbatore,Tamil Nadu,1907856,8,C0260,New,Male,65,Debit Card
+28-Jul-2025,Wardrobe,Furniture,Bengaluru,Karnataka,1822800,6,C0224,Returning,Female,32,Net Banking
+09-Oct-2025,Washing Machine,Home Appliances,Pune,Maharashtra,56808,3,C0273,New,Male,54,UPI
+15-Nov-2025,Sofa,Furniture,Kolkata,West Bengal,192610,1,C0060,Returning,Male,26,Debit Card
+13-May-2025,SSD,Electronics,Ahmedabad,Gujarat,1719466,7,C0384,New,Male,27,UPI
+26-Mar-2025,Air Conditioner,Home Appliances,Kolkata,West Bengal,330612,2,C0272,New,Female,57,Credit Card
+02-Aug-2025,Camera,Electronics,Chennai,Tamil Nadu,2709216,8,C0309,New,Female,27,UPI
+03-Dec-2025,Mixer Grinder,Home Appliances,Bengaluru,Karnataka,906630,6,C0191,Returning,Female,57,Cash
+04-Feb-2025,Washing Machine,Home Appliances,Mumbai,Maharashtra,547725,3,C0346,Returning,Male,50,Debit Card
+05-May-2025,Refrigerator,Home Appliances,Coimbatore,Tamil Nadu,333678,3,C0049,New,Female,52,Net Banking
+17-Nov-2025,Mixer Grinder,Home Appliances,Ahmedabad,Gujarat,1041312,8,C0340,Returning,Male,20,Net Banking
+08-Oct-2025,Smart TV,Electronics,Mumbai,Maharashtra,1353480,4,C0139,Returning,Female,30,EMI
+03-May-2025,Mixer Grinder,Home Appliances,Ahmedabad,Gujarat,291870,1,C0052,Returning,Female,50,Net Banking
+10-Feb-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,284004,3,C0258,New,Female,32,UPI
+27-Oct-2025,Mobile,Electronics,Ahmedabad,Gujarat,1398240,5,C0203,New,Male,43,EMI
+12-Feb-2025,Mobile,Electronics,Bengaluru,Karnataka,1399404,4,C0352,New,Male,42,UPI
+04-Nov-2025,Keyboard,Electronics,Chennai,Tamil Nadu,2194948,7,C0235,New,Male,57,Cash
+21-Aug-2025,Sofa,Furniture,Mumbai,Maharashtra,1337568,8,C0035,Returning,Male,27,Cash
+07-Jun-2025,Study Desk,Furniture,Kolkata,West Bengal,650586,2,C0286,New,Male,33,Cash
+02-Mar-2025,Monitor,Electronics,Delhi,Delhi,1028192,4,C0163,New,Male,40,EMI
+13-Nov-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,1571466,6,C0398,Returning,Female,60,Cash
+04-Jun-2025,Router,Electronics,Hyderabad,Telangana,315270,1,C0001,Returning,Female,58,Debit Card
+13-Feb-2025,Laptop,Electronics,Kochi,Kerala,533520,3,C0058,New,Female,28,EMI
+01-Aug-2025,Microwave,Home Appliances,Kolkata,West Bengal,1822656,6,C0207,Returning,Male,35,Cash
+06-Dec-2025,Washing Machine,Home Appliances,Pune,Maharashtra,1347528,6,C0228,Returning,Female,26,Debit Card
+10-Oct-2025,Smart TV,Electronics,Kochi,Kerala,1770848,8,C0381,New,Male,21,Debit Card
+13-Dec-2025,Mouse,Electronics,Chennai,Tamil Nadu,577604,4,C0157,Returning,Male,36,Credit Card
+12-Jun-2025,SSD,Electronics,Delhi,Delhi,165234,3,C0122,Returning,Female,27,Credit Card
+12-Aug-2025,Wardrobe,Furniture,Pune,Maharashtra,982984,8,C0069,Returning,Male,58,EMI
+17-May-2025,Wardrobe,Furniture,Kolkata,West Bengal,1200752,8,C0328,New,Female,30,Net Banking
+03-Jun-2025,Mouse,Electronics,Kochi,Kerala,261886,2,C0013,Returning,Male,62,UPI
+13-Mar-2025,Office Chair,Furniture,Hyderabad,Telangana,136404,4,C0170,New,Male,54,Cash
+30-May-2025,Study Desk,Furniture,Chennai,Tamil Nadu,439938,2,C0400,Returning,Male,27,Credit Card
+20-Nov-2025,Office Chair,Furniture,Ahmedabad,Gujarat,1030464,6,C0171,Returning,Male,64,EMI
+15-Jun-2025,Office Chair,Furniture,Ahmedabad,Gujarat,1085756,4,C0110,New,Female,45,UPI
+03-Aug-2025,Study Desk,Furniture,Hyderabad,Telangana,96663,3,C0141,Returning,Male,23,Debit Card
+07-Nov-2025,Wardrobe,Furniture,Delhi,Delhi,836628,6,C0164,Returning,Male,39,Debit Card
+24-Aug-2025,Gaming Laptop,Electronics,Kochi,Kerala,1921824,6,C0356,Returning,Female,32,Net Banking
+28-May-2025,Mixer Grinder,Home Appliances,Bengaluru,Karnataka,1424778,6,C0076,Returning,Male,46,UPI
+20-Jun-2025,Air Fryer,Home Appliances,Pune,Maharashtra,491855,5,C0125,Returning,Male,48,EMI
+08-Oct-2025,Dining Table,Furniture,Mumbai,Maharashtra,568968,3,C0085,Returning,Male,23,EMI
+02-Jun-2025,Office Chair,Furniture,Delhi,Delhi,783447,3,C0265,New,Male,49,Debit Card
+12-May-2025,Dining Table,Furniture,Ahmedabad,Gujarat,1389507,7,C0030,Returning,Male,19,EMI
+22-Aug-2025,Wardrobe,Furniture,Hyderabad,Telangana,1443005,5,C0028,New,Male,42,Cash
+14-Dec-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,345888,8,C0233,Returning,Female,20,Credit Card
+28-Jul-2025,Camera,Electronics,Kochi,Kerala,893704,7,C0093,Returning,Female,29,Net Banking
+22-Apr-2025,Smart Watch,Electronics,Bengaluru,Karnataka,194444,2,C0022,New,Male,43,Debit Card
+03-Mar-2025,Study Desk,Furniture,Delhi,Delhi,1736448,8,C0090,New,Male,65,Debit Card
+26-Dec-2025,Printer,Electronics,Chennai,Tamil Nadu,391904,4,C0104,New,Female,19,Cash
+11-Feb-2025,Air Conditioner,Home Appliances,Kolkata,West Bengal,527126,2,C0067,Returning,Female,62,EMI
+03-Jan-2025,Camera,Electronics,Hyderabad,Telangana,1263038,7,C0342,Returning,Female,24,Debit Card
+14-Sep-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,1340101,7,C0193,Returning,Male,40,Debit Card
+23-Mar-2025,Washing Machine,Home Appliances,Delhi,Delhi,401160,8,C0216,Returning,Female,42,EMI
+10-Sep-2025,Sofa,Furniture,Coimbatore,Tamil Nadu,1152165,7,C0228,New,Female,61,Net Banking
+10-Jun-2025,Microwave,Home Appliances,Hyderabad,Telangana,219758,7,C0335,New,Male,49,EMI
+28-Jul-2025,Headphones,Electronics,Mumbai,Maharashtra,153336,1,C0229,New,Male,59,UPI
+05-Oct-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,1549395,5,C0057,Returning,Female,21,Credit Card
+09-Jun-2025,Camera,Electronics,Kochi,Kerala,324130,1,C0302,Returning,Female,57,Debit Card
+02-Aug-2025,Camera,Electronics,Delhi,Delhi,2080589,7,C0213,New,Male,36,Debit Card
+10-Apr-2025,Washing Machine,Home Appliances,Kochi,Kerala,1682814,7,C0192,Returning,Female,25,Net Banking
+25-Oct-2025,Dining Table,Furniture,Ahmedabad,Gujarat,221234,1,C0057,New,Male,31,Credit Card
+13-Apr-2025,SSD,Electronics,Bengaluru,Karnataka,502290,5,C0371,Returning,Male,50,Credit Card
+20-Nov-2025,Study Desk,Furniture,Chennai,Tamil Nadu,574340,5,C0125,New,Male,39,UPI
+24-Mar-2025,Tablet,Electronics,Pune,Maharashtra,236772,3,C0092,New,Male,60,Net Banking
+20-Jul-2025,Office Chair,Furniture,Kolkata,West Bengal,112583,1,C0257,Returning,Female,44,Net Banking
+31-Dec-2025,Router,Electronics,Ahmedabad,Gujarat,177533,1,C0228,New,Female,57,UPI
+16-Nov-2025,Sofa,Furniture,Mumbai,Maharashtra,1489885,5,C0223,New,Female,22,Credit Card
+31-Jan-2025,Mixer Grinder,Home Appliances,Delhi,Delhi,536400,4,C0005,New,Female,36,Credit Card
+10-Nov-2025,Dining Table,Furniture,Kolkata,West Bengal,1709799,7,C0291,New,Male,25,Cash
+05-Aug-2025,Camera,Electronics,Coimbatore,Tamil Nadu,81710,1,C0382,New,Female,59,Credit Card
+25-Nov-2025,Microwave,Home Appliances,Hyderabad,Telangana,694188,6,C0337,New,Female,52,Debit Card
+06-Aug-2025,Wardrobe,Furniture,Delhi,Delhi,924423,3,C0088,Returning,Female,37,Credit Card
+02-Mar-2025,Keyboard,Electronics,Kolkata,West Bengal,412272,4,C0333,New,Female,27,EMI
+16-Apr-2025,SSD,Electronics,Kochi,Kerala,352074,2,C0123,New,Female,53,Cash
+09-Feb-2025,Air Conditioner,Home Appliances,Pune,Maharashtra,1608474,6,C0103,Returning,Male,50,Cash
+28-Mar-2025,SSD,Electronics,Coimbatore,Tamil Nadu,228501,7,C0152,New,Male,48,EMI
+05-Jan-2025,Air Fryer,Home Appliances,Chennai,Tamil Nadu,956408,8,C0029,Returning,Female,33,Net Banking
+27-Oct-2025,Dining Table,Furniture,Kolkata,West Bengal,872400,4,C0262,New,Male,34,Credit Card
+23-Jul-2025,Dining Table,Furniture,Delhi,Delhi,128834,1,C0204,New,Female,63,Cash
+26-Jul-2025,Dining Table,Furniture,Kochi,Kerala,795600,5,C0248,Returning,Female,40,UPI
+10-Apr-2025,Bookshelf,Furniture,Ahmedabad,Gujarat,2092044,6,C0196,Returning,Male,58,Debit Card
+25-Jun-2025,Refrigerator,Home Appliances,Mumbai,Maharashtra,220935,1,C0229,Returning,Male,62,Credit Card
+11-Jan-2025,Refrigerator,Home Appliances,Hyderabad,Telangana,396856,8,C0130,New,Female,35,Credit Card
+22-Aug-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,1583040,8,C0320,New,Female,54,Net Banking
+07-May-2025,Sofa,Furniture,Kochi,Kerala,913990,5,C0374,New,Male,43,EMI
+14-May-2025,Gaming Laptop,Electronics,Kolkata,West Bengal,53434,2,C0113,Returning,Female,41,Debit Card
+18-Jul-2025,Microwave,Home Appliances,Mumbai,Maharashtra,151233,3,C0037,Returning,Female,24,Cash
+27-Aug-2025,Microwave,Home Appliances,Coimbatore,Tamil Nadu,207255,3,C0309,New,Male,56,Credit Card
+16-Feb-2025,Dining Table,Furniture,Coimbatore,Tamil Nadu,298486,2,C0086,Returning,Female,21,Cash
+28-Mar-2025,Headphones,Electronics,Kolkata,West Bengal,208412,4,C0219,New,Female,27,Cash
+19-Oct-2025,Office Chair,Furniture,Hyderabad,Telangana,162336,6,C0052,Returning,Female,61,UPI
+31-Jan-2025,Tablet,Electronics,Ahmedabad,Gujarat,2253152,8,C0317,New,Female,26,Credit Card
+23-Dec-2025,Wardrobe,Furniture,Mumbai,Maharashtra,1066330,5,C0002,New,Female,20,UPI
+01-Dec-2025,Air Fryer,Home Appliances,Bengaluru,Karnataka,203535,5,C0393,New,Female,62,Cash
+20-Jan-2025,Sofa,Furniture,Hyderabad,Telangana,1327564,4,C0043,New,Male,18,Debit Card
+14-Jul-2025,Sofa,Furniture,Hyderabad,Telangana,596442,7,C0015,New,Male,20,Net Banking
+27-Oct-2025,Keyboard,Electronics,Coimbatore,Tamil Nadu,1222080,5,C0275,New,Male,32,EMI
+16-Dec-2025,Office Chair,Furniture,Bengaluru,Karnataka,565890,3,C0222,New,Male,61,UPI
+05-Jul-2025,Air Conditioner,Home Appliances,Kochi,Kerala,1516290,5,C0044,Returning,Female,19,Net Banking
+28-Mar-2025,Mixer Grinder,Home Appliances,Coimbatore,Tamil Nadu,154420,1,C0248,New,Male,59,EMI
+02-Aug-2025,Camera,Electronics,Ahmedabad,Gujarat,631868,4,C0170,New,Male,41,UPI
+22-Feb-2025,Study Desk,Furniture,Ahmedabad,Gujarat,958350,3,C0391,New,Female,25,Cash
+27-Dec-2025,Washing Machine,Home Appliances,Kochi,Kerala,2382618,7,C0150,New,Male,28,Cash
+29-Jan-2025,Keyboard,Electronics,Pune,Maharashtra,1175250,5,C0055,New,Male,36,Credit Card
+13-Jun-2025,Refrigerator,Home Appliances,Coimbatore,Tamil Nadu,888730,5,C0221,Returning,Female,18,Debit Card
+15-Nov-2025,Air Fryer,Home Appliances,Hyderabad,Telangana,972252,6,C0389,New,Female,53,Credit Card
+03-Nov-2025,Dining Table,Furniture,Chennai,Tamil Nadu,2011380,6,C0383,New,Male,49,Credit Card
+30-Jul-2025,Bookshelf,Furniture,Pune,Maharashtra,579982,2,C0375,New,Female,18,Cash
+19-Jul-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,1019523,3,C0335,New,Female,47,EMI
+03-Jul-2025,Bookshelf,Furniture,Ahmedabad,Gujarat,2399112,8,C0082,New,Female,45,Debit Card
+09-Jun-2025,Headphones,Electronics,Coimbatore,Tamil Nadu,405248,2,C0269,New,Female,23,Net Banking
+17-Jun-2025,Wardrobe,Furniture,Mumbai,Maharashtra,860425,5,C0238,Returning,Female,18,EMI
+17-Aug-2025,Smart TV,Electronics,Pune,Maharashtra,531336,6,C0299,Returning,Male,31,Cash
+19-Sep-2025,Smart TV,Electronics,Coimbatore,Tamil Nadu,924315,7,C0018,New,Female,61,Net Banking
+29-May-2025,Office Chair,Furniture,Chennai,Tamil Nadu,289904,8,C0370,Returning,Female,61,Debit Card
+18-Jan-2025,Smart TV,Electronics,Coimbatore,Tamil Nadu,1650352,8,C0349,New,Male,44,EMI
+22-Sep-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,2063416,8,C0033,Returning,Female,22,EMI
+02-Mar-2025,Sofa,Furniture,Bengaluru,Karnataka,227895,3,C0128,New,Male,40,Credit Card
+26-May-2025,Air Fryer,Home Appliances,Ahmedabad,Gujarat,627963,7,C0182,Returning,Male,19,Credit Card
+08-Jan-2025,Printer,Electronics,Kochi,Kerala,395416,8,C0324,Returning,Female,46,UPI
+22-Aug-2025,Printer,Electronics,Coimbatore,Tamil Nadu,242405,1,C0102,New,Female,52,UPI
+20-Oct-2025,Bookshelf,Furniture,Bengaluru,Karnataka,914736,4,C0349,Returning,Male,41,EMI
+24-Dec-2025,Mixer Grinder,Home Appliances,Mumbai,Maharashtra,2502936,8,C0347,New,Female,36,Credit Card
+03-Jul-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,2086084,7,C0088,New,Female,28,Credit Card
+05-Apr-2025,Sofa,Furniture,Mumbai,Maharashtra,265512,4,C0352,Returning,Male,31,Debit Card
+02-Sep-2025,Monitor,Electronics,Kochi,Kerala,108768,6,C0104,Returning,Female,27,Cash
+29-Oct-2025,Microwave,Home Appliances,Coimbatore,Tamil Nadu,218812,4,C0063,Returning,Male,24,EMI
+29-Jun-2025,Headphones,Electronics,Kolkata,West Bengal,1408883,7,C0350,New,Male,30,EMI
+10-Sep-2025,Monitor,Electronics,Mumbai,Maharashtra,1416920,5,C0048,New,Male,62,Net Banking
+03-Aug-2025,Sofa,Furniture,Chennai,Tamil Nadu,310165,5,C0044,New,Male,23,Cash
+07-May-2025,SSD,Electronics,Kolkata,West Bengal,1988478,6,C0378,Returning,Male,60,Net Banking
+02-Apr-2025,Headphones,Electronics,Pune,Maharashtra,388584,4,C0259,Returning,Female,22,Net Banking
+15-Sep-2025,Gaming Laptop,Electronics,Ahmedabad,Gujarat,42284,1,C0126,Returning,Female,32,Debit Card
+08-Dec-2025,Smart TV,Electronics,Kochi,Kerala,411252,4,C0117,Returning,Male,22,UPI
+30-Sep-2025,Microwave,Home Appliances,Mumbai,Maharashtra,1355532,6,C0043,New,Female,61,Cash
+26-Feb-2025,Gaming Laptop,Electronics,Kochi,Kerala,573438,2,C0091,Returning,Female,44,Debit Card
+09-May-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,509758,2,C0150,Returning,Female,26,UPI
+13-Jan-2025,Tablet,Electronics,Bengaluru,Karnataka,147762,2,C0242,Returning,Female,38,Net Banking
+24-Mar-2025,Refrigerator,Home Appliances,Mumbai,Maharashtra,1744128,8,C0068,Returning,Male,54,Net Banking
+12-Apr-2025,Wardrobe,Furniture,Chennai,Tamil Nadu,382910,5,C0234,Returning,Male,58,Cash
+18-Nov-2025,Dining Table,Furniture,Hyderabad,Telangana,131322,6,C0024,Returning,Male,27,UPI
+07-Oct-2025,Mixer Grinder,Home Appliances,Bengaluru,Karnataka,2028439,7,C0248,Returning,Male,36,Net Banking
+02-Jun-2025,Microwave,Home Appliances,Pune,Maharashtra,585084,6,C0288,New,Male,42,EMI
+16-Mar-2025,Bookshelf,Furniture,Hyderabad,Telangana,1028980,4,C0320,Returning,Male,32,Credit Card
+16-Jun-2025,Headphones,Electronics,Chennai,Tamil Nadu,1407679,7,C0202,New,Male,53,Debit Card
+02-May-2025,Office Chair,Furniture,Pune,Maharashtra,585820,5,C0183,Returning,Female,43,Cash
+14-Nov-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,731991,3,C0235,Returning,Female,38,EMI
+04-Jun-2025,Bookshelf,Furniture,Delhi,Delhi,268896,3,C0188,New,Female,65,Credit Card
+01-Jan-2025,Sofa,Furniture,Ahmedabad,Gujarat,1090116,4,C0378,New,Female,38,Cash
+04-Sep-2025,Headphones,Electronics,Coimbatore,Tamil Nadu,574738,2,C0303,Returning,Male,48,Debit Card
+29-Mar-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,685416,4,C0018,New,Female,34,Cash
+15-Jan-2025,Camera,Electronics,Coimbatore,Tamil Nadu,1878162,6,C0046,Returning,Male,59,UPI
+12-Oct-2025,Smart TV,Electronics,Delhi,Delhi,735714,6,C0186,New,Male,18,Credit Card
+01-Jun-2025,Washing Machine,Home Appliances,Mumbai,Maharashtra,765096,6,C0018,Returning,Male,29,UPI
+17-Jul-2025,Camera,Electronics,Bengaluru,Karnataka,293001,1,C0012,Returning,Female,26,UPI
+15-Mar-2025,Air Fryer,Home Appliances,Delhi,Delhi,276870,6,C0228,New,Male,23,Credit Card
+30-Jan-2025,Smart TV,Electronics,Chennai,Tamil Nadu,134124,3,C0354,Returning,Male,29,EMI
+10-Mar-2025,Mobile,Electronics,Kolkata,West Bengal,110316,2,C0222,Returning,Male,20,Credit Card
+19-Sep-2025,Dining Table,Furniture,Ahmedabad,Gujarat,1694752,8,C0083,Returning,Male,51,Cash
+25-Mar-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,709884,3,C0134,Returning,Male,61,UPI
+28-Feb-2025,Sofa,Furniture,Kolkata,West Bengal,490530,2,C0191,Returning,Male,60,Cash
+28-Mar-2025,Microwave,Home Appliances,Chennai,Tamil Nadu,165310,1,C0242,New,Male,50,Cash
+30-Mar-2025,Laptop,Electronics,Bengaluru,Karnataka,1967350,7,C0388,Returning,Male,56,Cash
+26-Oct-2025,Dining Table,Furniture,Ahmedabad,Gujarat,472164,3,C0297,Returning,Male,55,EMI
+13-Jul-2025,Air Conditioner,Home Appliances,Delhi,Delhi,1020051,3,C0198,Returning,Male,59,Cash
+06-Dec-2025,Study Desk,Furniture,Kochi,Kerala,417030,2,C0048,New,Female,38,EMI
+07-Jan-2025,Microwave,Home Appliances,Kolkata,West Bengal,1889952,6,C0383,New,Female,18,Credit Card
+18-Oct-2025,Mixer Grinder,Home Appliances,Mumbai,Maharashtra,630576,2,C0399,Returning,Male,37,UPI
+05-Aug-2025,Mixer Grinder,Home Appliances,Pune,Maharashtra,179545,5,C0020,Returning,Female,23,Debit Card
+08-Sep-2025,Dining Table,Furniture,Mumbai,Maharashtra,664775,5,C0163,New,Female,63,UPI
+18-Oct-2025,Office Chair,Furniture,Bengaluru,Karnataka,245384,8,C0102,New,Male,44,UPI
+16-Mar-2025,Printer,Electronics,Kolkata,West Bengal,2213449,7,C0337,New,Male,61,Credit Card
+14-Jun-2025,Smart Watch,Electronics,Ahmedabad,Gujarat,2025368,8,C0256,Returning,Male,52,Net Banking
+10-Mar-2025,Dining Table,Furniture,Kolkata,West Bengal,84940,4,C0008,Returning,Male,53,Debit Card
+09-May-2025,Sofa,Furniture,Delhi,Delhi,48206,1,C0060,New,Male,63,EMI
+30-Sep-2025,Printer,Electronics,Hyderabad,Telangana,998718,3,C0229,New,Male,40,EMI
+28-Feb-2025,Air Conditioner,Home Appliances,Bengaluru,Karnataka,2179702,7,C0191,New,Female,46,UPI
+31-Jul-2025,Laptop,Electronics,Mumbai,Maharashtra,537936,3,C0078,Returning,Male,60,Credit Card
+14-Apr-2025,Washing Machine,Home Appliances,Ahmedabad,Gujarat,679855,5,C0186,New,Male,37,Credit Card
+06-Jul-2025,Gaming Laptop,Electronics,Pune,Maharashtra,571322,2,C0394,Returning,Male,21,Net Banking
+30-Jun-2025,Refrigerator,Home Appliances,Mumbai,Maharashtra,494710,2,C0134,New,Male,28,Debit Card
+10-Apr-2025,Office Chair,Furniture,Delhi,Delhi,867368,4,C0304,New,Male,49,Credit Card
+08-Apr-2025,Printer,Electronics,Kolkata,West Bengal,754077,3,C0382,Returning,Female,44,UPI
+23-Sep-2025,Washing Machine,Home Appliances,Hyderabad,Telangana,352448,8,C0039,Returning,Female,43,UPI
+13-Mar-2025,Study Desk,Furniture,Bengaluru,Karnataka,830610,6,C0033,Returning,Female,65,Net Banking
+27-Aug-2025,Dining Table,Furniture,Mumbai,Maharashtra,691130,5,C0245,New,Male,33,UPI
+06-Nov-2025,Washing Machine,Home Appliances,Coimbatore,Tamil Nadu,276643,1,C0105,New,Female,21,Debit Card
+21-Jan-2025,Study Desk,Furniture,Pune,Maharashtra,858242,7,C0119,New,Female,26,Debit Card
+28-Oct-2025,Bookshelf,Furniture,Kochi,Kerala,223304,1,C0233,New,Male,46,UPI
+27-Jul-2025,Bookshelf,Furniture,Delhi,Delhi,699340,2,C0283,New,Male,56,UPI
+22-Oct-2025,Sofa,Furniture,Mumbai,Maharashtra,1452540,6,C0058,New,Female,24,Credit Card
+28-Jul-2025,Sofa,Furniture,Chennai,Tamil Nadu,1600128,6,C0068,Returning,Female,35,UPI
+21-Apr-2025,Washing Machine,Home Appliances,Chennai,Tamil Nadu,317990,1,C0379,Returning,Male,47,Debit Card
+21-Oct-2025,Laptop,Electronics,Kolkata,West Bengal,145723,1,C0115,New,Male,33,EMI
+26-Feb-2025,Office Chair,Furniture,Chennai,Tamil Nadu,647052,3,C0393,Returning,Female,56,EMI
+29-Aug-2025,Mouse,Electronics,Pune,Maharashtra,1931988,6,C0014,New,Female,25,Credit Card
+07-Apr-2025,Gaming Laptop,Electronics,Pune,Maharashtra,1006880,8,C0114,New,Male,19,Net Banking
+13-Feb-2025,Gaming Laptop,Electronics,Pune,Maharashtra,669927,3,C0375,New,Female,28,Debit Card
+09-Dec-2025,Washing Machine,Home Appliances,Mumbai,Maharashtra,1266150,6,C0012,Returning,Male,31,UPI
+30-Apr-2025,Mouse,Electronics,Ahmedabad,Gujarat,434112,7,C0359,New,Female,47,Cash
+09-Sep-2025,Smart Watch,Electronics,Bengaluru,Karnataka,882684,4,C0283,Returning,Male,46,EMI
+13-Feb-2025,Tablet,Electronics,Mumbai,Maharashtra,195335,7,C0013,Returning,Male,57,UPI
+09-Jun-2025,Bookshelf,Furniture,Delhi,Delhi,708100,4,C0120,New,Female,20,Credit Card
+22-Jan-2025,Air Fryer,Home Appliances,Kolkata,West Bengal,189064,8,C0187,New,Female,56,EMI
+10-May-2025,Mixer Grinder,Home Appliances,Delhi,Delhi,259494,3,C0382,Returning,Male,59,EMI
+14-Feb-2025,Office Chair,Furniture,Hyderabad,Telangana,357400,5,C0328,Returning,Female,30,UPI
+23-May-2025,Tablet,Electronics,Kochi,Kerala,249546,1,C0268,Returning,Male,36,Net Banking
+05-Nov-2025,Washing Machine,Home Appliances,Ahmedabad,Gujarat,1142514,6,C0307,Returning,Male,43,UPI
+30-Dec-2025,Mouse,Electronics,Chennai,Tamil Nadu,1947776,8,C0135,Returning,Male,50,UPI
+26-Apr-2025,Mixer Grinder,Home Appliances,Bengaluru,Karnataka,608918,2,C0086,Returning,Male,31,Debit Card
+20-Oct-2025,Study Desk,Furniture,Mumbai,Maharashtra,933830,5,C0243,Returning,Female,47,Credit Card
+18-Nov-2025,Bookshelf,Furniture,Kochi,Kerala,2050272,7,C0358,New,Male,48,Credit Card
+02-Jul-2025,Refrigerator,Home Appliances,Kochi,Kerala,1906450,7,C0070,New,Female,32,UPI
+25-Feb-2025,Study Desk,Furniture,Kolkata,West Bengal,1616560,8,C0336,New,Male,36,Net Banking
+18-Jul-2025,Gaming Laptop,Electronics,Chennai,Tamil Nadu,419925,5,C0148,New,Male,19,Credit Card
+22-May-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,161748,3,C0072,Returning,Female,46,Net Banking
+19-Feb-2025,Printer,Electronics,Chennai,Tamil Nadu,341418,6,C0063,Returning,Female,62,Credit Card
+30-Jul-2025,Smart TV,Electronics,Mumbai,Maharashtra,500972,4,C0080,New,Male,56,Credit Card
+30-Apr-2025,Microwave,Home Appliances,Kochi,Kerala,238716,6,C0241,New,Female,23,Credit Card
+23-Nov-2025,Bookshelf,Furniture,Kochi,Kerala,170713,1,C0071,Returning,Male,58,EMI
+04-Jun-2025,SSD,Electronics,Hyderabad,Telangana,213247,1,C0130,Returning,Male,62,Cash
+23-Mar-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,335402,2,C0263,New,Male,30,EMI
+11-Jan-2025,Study Desk,Furniture,Delhi,Delhi,398589,3,C0142,Returning,Male,57,EMI
+02-Jun-2025,Printer,Electronics,Mumbai,Maharashtra,867130,5,C0386,Returning,Female,32,UPI
+05-Jan-2025,Microwave,Home Appliances,Mumbai,Maharashtra,106102,1,C0111,Returning,Female,30,Credit Card
+11-Jun-2025,Microwave,Home Appliances,Coimbatore,Tamil Nadu,712936,4,C0055,Returning,Female,23,Credit Card
+15-Dec-2025,Refrigerator,Home Appliances,Pune,Maharashtra,174847,1,C0368,New,Male,55,Credit Card
+07-Dec-2025,Study Desk,Furniture,Pune,Maharashtra,888864,3,C0311,New,Male,46,EMI
+01-Oct-2025,Headphones,Electronics,Chennai,Tamil Nadu,1662712,8,C0179,New,Male,46,UPI
+26-Jun-2025,Bookshelf,Furniture,Hyderabad,Telangana,2378832,8,C0310,New,Male,49,Credit Card
+22-Jul-2025,Study Desk,Furniture,Kolkata,West Bengal,1012765,5,C0161,New,Male,62,Net Banking
+01-Feb-2025,Printer,Electronics,Pune,Maharashtra,98254,2,C0198,Returning,Male,41,Cash
+24-Feb-2025,Microwave,Home Appliances,Mumbai,Maharashtra,100220,4,C0019,New,Female,22,Cash
+24-Jan-2025,Wardrobe,Furniture,Ahmedabad,Gujarat,1128044,4,C0083,Returning,Male,60,Cash
+17-Sep-2025,Gaming Laptop,Electronics,Hyderabad,Telangana,1247292,4,C0074,New,Male,27,Debit Card
+11-May-2025,Monitor,Electronics,Kochi,Kerala,827406,3,C0314,Returning,Female,24,Credit Card
+02-May-2025,Dining Table,Furniture,Mumbai,Maharashtra,776274,3,C0088,Returning,Female,47,EMI
+13-Oct-2025,Refrigerator,Home Appliances,Coimbatore,Tamil Nadu,900232,4,C0033,Returning,Female,32,Net Banking
+11-Dec-2025,Wardrobe,Furniture,Pune,Maharashtra,462156,3,C0364,Returning,Female,45,Net Banking
+18-Jan-2025,Washing Machine,Home Appliances,Chennai,Tamil Nadu,323228,4,C0190,New,Male,48,Cash
+14-Jun-2025,Sofa,Furniture,Chennai,Tamil Nadu,499976,8,C0215,Returning,Female,36,Cash
+29-Oct-2025,Wardrobe,Furniture,Kolkata,West Bengal,982345,5,C0133,New,Female,21,Net Banking
+24-Dec-2025,Dining Table,Furniture,Mumbai,Maharashtra,584400,4,C0171,New,Female,20,Cash
+22-Jun-2025,Dining Table,Furniture,Chennai,Tamil Nadu,1165392,6,C0130,Returning,Female,27,Net Banking
+17-Jun-2025,Microwave,Home Appliances,Bengaluru,Karnataka,111644,4,C0050,New,Male,24,EMI
+29-Jul-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,947128,7,C0351,Returning,Female,43,UPI
+03-Oct-2025,Air Conditioner,Home Appliances,Kochi,Kerala,1246320,6,C0134,New,Female,21,Debit Card
+08-Mar-2025,Bookshelf,Furniture,Mumbai,Maharashtra,660837,3,C0383,New,Female,18,Net Banking
+04-Apr-2025,Mixer Grinder,Home Appliances,Coimbatore,Tamil Nadu,425008,4,C0208,New,Female,59,Debit Card
+29-Mar-2025,Microwave,Home Appliances,Bengaluru,Karnataka,486894,3,C0323,New,Male,57,UPI
+14-Jan-2025,Headphones,Electronics,Kochi,Kerala,2762584,8,C0186,Returning,Male,41,EMI
+09-Jul-2025,Laptop,Electronics,Bengaluru,Karnataka,482490,6,C0068,New,Female,47,Credit Card
+23-Nov-2025,SSD,Electronics,Delhi,Delhi,418284,2,C0300,Returning,Male,56,Net Banking
+21-Jan-2025,Laptop,Electronics,Coimbatore,Tamil Nadu,415925,5,C0117,Returning,Male,55,Debit Card
+07-Feb-2025,Office Chair,Furniture,Hyderabad,Telangana,274571,1,C0200,New,Female,41,Cash
+30-Jul-2025,Office Chair,Furniture,Kochi,Kerala,215569,1,C0379,Returning,Male,44,Cash
+22-Sep-2025,SSD,Electronics,Kolkata,West Bengal,256596,4,C0319,Returning,Male,23,Cash
+25-Nov-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,700469,7,C0083,New,Female,29,UPI
+13-Sep-2025,Refrigerator,Home Appliances,Chennai,Tamil Nadu,2116338,7,C0363,Returning,Female,32,Credit Card
+27-Jan-2025,Air Conditioner,Home Appliances,Delhi,Delhi,264818,1,C0138,New,Male,28,EMI
+28-Dec-2025,Dining Table,Furniture,Delhi,Delhi,332538,6,C0359,New,Male,41,Credit Card
+20-Jul-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,1542548,7,C0383,Returning,Female,30,Credit Card
+03-Apr-2025,Gaming Laptop,Electronics,Kochi,Kerala,186678,3,C0323,Returning,Male,26,Credit Card
+29-Mar-2025,Washing Machine,Home Appliances,Mumbai,Maharashtra,264060,5,C0179,New,Male,25,Debit Card
+24-Jan-2025,Monitor,Electronics,Delhi,Delhi,658736,8,C0098,Returning,Female,45,Net Banking
+28-Nov-2025,Sofa,Furniture,Pune,Maharashtra,244376,8,C0036,Returning,Male,46,Debit Card
+18-Oct-2025,Study Desk,Furniture,Kolkata,West Bengal,103938,1,C0059,New,Male,56,Credit Card
+20-Aug-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,1823728,8,C0385,Returning,Male,23,Net Banking
+01-May-2025,Smart TV,Electronics,Kochi,Kerala,93608,4,C0271,New,Female,37,Cash
+16-Dec-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,221740,2,C0363,Returning,Male,47,Net Banking
+01-May-2025,Bookshelf,Furniture,Kochi,Kerala,794176,8,C0341,New,Male,56,Debit Card
+21-Feb-2025,Study Desk,Furniture,Ahmedabad,Gujarat,669990,3,C0334,Returning,Female,46,Cash
+25-Jun-2025,Router,Electronics,Mumbai,Maharashtra,522862,2,C0341,Returning,Female,21,Net Banking
+14-Mar-2025,Air Conditioner,Home Appliances,Pune,Maharashtra,1904922,6,C0024,New,Male,22,Debit Card
+07-Feb-2025,Printer,Electronics,Bengaluru,Karnataka,1571073,7,C0114,New,Male,27,Cash
+22-Oct-2025,Keyboard,Electronics,Chennai,Tamil Nadu,1352640,5,C0308,Returning,Female,58,Credit Card
+19-Dec-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,2230880,8,C0256,Returning,Female,41,Cash
+20-Feb-2025,Dining Table,Furniture,Mumbai,Maharashtra,325540,2,C0255,New,Female,43,Cash
+21-Jan-2025,Dining Table,Furniture,Hyderabad,Telangana,1544780,5,C0047,Returning,Male,46,Net Banking
+07-Jul-2025,Air Fryer,Home Appliances,Bengaluru,Karnataka,587260,2,C0305,Returning,Male,61,UPI
+06-Jan-2025,Mixer Grinder,Home Appliances,Chennai,Tamil Nadu,781437,3,C0269,New,Male,29,EMI
+27-Dec-2025,Sofa,Furniture,Mumbai,Maharashtra,133494,2,C0205,Returning,Female,54,UPI
+02-Jan-2025,Bookshelf,Furniture,Delhi,Delhi,1204458,6,C0282,Returning,Male,49,Credit Card
+19-Mar-2025,Smart Watch,Electronics,Bengaluru,Karnataka,1946864,8,C0066,Returning,Female,41,Net Banking
+26-Apr-2025,Mobile,Electronics,Ahmedabad,Gujarat,868792,8,C0383,New,Male,26,Credit Card
+08-Dec-2025,Mouse,Electronics,Kochi,Kerala,145048,2,C0239,Returning,Female,65,Cash
+21-Apr-2025,Wardrobe,Furniture,Delhi,Delhi,179440,4,C0348,Returning,Female,46,Net Banking
+26-Mar-2025,Air Fryer,Home Appliances,Ahmedabad,Gujarat,924528,4,C0317,New,Female,31,Cash
+09-Nov-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,1264109,7,C0048,New,Female,30,EMI
+20-Aug-2025,Air Fryer,Home Appliances,Ahmedabad,Gujarat,715008,4,C0229,Returning,Male,30,UPI
+13-Jun-2025,SSD,Electronics,Mumbai,Maharashtra,1956480,6,C0111,Returning,Female,33,Debit Card
+07-Jun-2025,Mobile,Electronics,Ahmedabad,Gujarat,192544,2,C0243,New,Male,54,EMI
+07-Sep-2025,Gaming Laptop,Electronics,Delhi,Delhi,614976,4,C0262,New,Female,43,Net Banking
+03-Apr-2025,Dining Table,Furniture,Chennai,Tamil Nadu,963564,3,C0226,New,Female,57,Cash
+23-Dec-2025,Mixer Grinder,Home Appliances,Delhi,Delhi,346074,2,C0056,New,Female,24,UPI
+23-Dec-2025,Dining Table,Furniture,Delhi,Delhi,267769,1,C0072,Returning,Female,18,EMI
+23-May-2025,Laptop,Electronics,Delhi,Delhi,409760,5,C0138,New,Male,22,Net Banking
+15-Dec-2025,Office Chair,Furniture,Mumbai,Maharashtra,2003918,7,C0113,New,Female,46,Cash
+11-Jun-2025,Mouse,Electronics,Kolkata,West Bengal,74466,1,C0326,Returning,Male,23,UPI
+17-May-2025,Dining Table,Furniture,Coimbatore,Tamil Nadu,835560,3,C0221,New,Male,20,EMI
+05-Aug-2025,Bookshelf,Furniture,Kochi,Kerala,154518,3,C0243,New,Female,44,UPI
+20-Mar-2025,Air Conditioner,Home Appliances,Coimbatore,Tamil Nadu,1062582,6,C0247,New,Male,52,UPI
+11-Feb-2025,Mixer Grinder,Home Appliances,Pune,Maharashtra,633290,7,C0187,New,Female,18,EMI
+07-Apr-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,475425,5,C0113,New,Male,26,EMI
+23-Nov-2025,Bookshelf,Furniture,Pune,Maharashtra,1321316,4,C0072,Returning,Female,54,UPI
+30-Jun-2025,Microwave,Home Appliances,Delhi,Delhi,928824,6,C0295,New,Male,25,Credit Card
+14-Aug-2025,Refrigerator,Home Appliances,Coimbatore,Tamil Nadu,1501540,5,C0154,New,Male,47,Credit Card
+26-Dec-2025,Laptop,Electronics,Kochi,Kerala,48938,2,C0394,Returning,Male,31,Net Banking
+06-Sep-2025,Router,Electronics,Chennai,Tamil Nadu,962464,4,C0251,Returning,Female,65,UPI
+11-Sep-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,228347,1,C0027,Returning,Female,59,Credit Card
+14-Jun-2025,Smart Watch,Electronics,Pune,Maharashtra,145376,8,C0129,New,Female,54,Credit Card
+18-Jan-2025,Sofa,Furniture,Kochi,Kerala,1668620,5,C0037,Returning,Male,35,UPI
+20-Aug-2025,Wardrobe,Furniture,Ahmedabad,Gujarat,1509305,5,C0339,Returning,Female,45,Debit Card
+02-Jun-2025,Dining Table,Furniture,Delhi,Delhi,1048480,8,C0257,New,Male,18,Net Banking
+01-Feb-2025,Dining Table,Furniture,Mumbai,Maharashtra,37818,1,C0172,Returning,Female,22,EMI
+13-Nov-2025,Microwave,Home Appliances,Ahmedabad,Gujarat,449547,7,C0200,Returning,Male,33,Credit Card
+18-Nov-2025,Wardrobe,Furniture,Kolkata,West Bengal,737435,5,C0383,Returning,Female,21,Debit Card
+12-Mar-2025,Office Chair,Furniture,Pune,Maharashtra,533286,3,C0164,New,Male,22,Cash
+20-Aug-2025,Air Conditioner,Home Appliances,Delhi,Delhi,549612,4,C0391,New,Male,60,UPI
+11-Oct-2025,Dining Table,Furniture,Chennai,Tamil Nadu,85132,4,C0347,New,Male,55,Debit Card
+07-Jan-2025,Dining Table,Furniture,Kolkata,West Bengal,532866,3,C0305,New,Female,50,Net Banking
+20-Aug-2025,Washing Machine,Home Appliances,Kolkata,West Bengal,931137,3,C0362,New,Male,53,EMI
+29-Jan-2025,Mobile,Electronics,Kochi,Kerala,1259644,4,C0074,New,Male,27,EMI
+13-May-2025,Headphones,Electronics,Mumbai,Maharashtra,227958,2,C0361,New,Male,56,Credit Card
+11-Apr-2025,SSD,Electronics,Pune,Maharashtra,186253,1,C0231,New,Female,37,Debit Card
+26-Jan-2025,Mixer Grinder,Home Appliances,Delhi,Delhi,604170,7,C0046,Returning,Female,56,UPI
+09-May-2025,Smart TV,Electronics,Coimbatore,Tamil Nadu,64284,2,C0311,New,Female,33,Debit Card
+02-Jan-2025,Headphones,Electronics,Bengaluru,Karnataka,576790,2,C0051,Returning,Male,49,EMI
+10-Dec-2025,SSD,Electronics,Kolkata,West Bengal,89844,1,C0269,New,Male,63,Cash
+14-Apr-2025,Sofa,Furniture,Kolkata,West Bengal,75280,4,C0252,Returning,Male,34,Cash
+07-Nov-2025,Laptop,Electronics,Mumbai,Maharashtra,884826,6,C0387,New,Male,19,Debit Card
+30-Jun-2025,Air Fryer,Home Appliances,Delhi,Delhi,1058850,5,C0121,Returning,Male,52,EMI
+13-Mar-2025,Laptop,Electronics,Mumbai,Maharashtra,275666,2,C0064,New,Female,43,EMI
+13-Jan-2025,Mixer Grinder,Home Appliances,Kochi,Kerala,2553736,8,C0153,New,Male,60,EMI
+08-Mar-2025,SSD,Electronics,Kochi,Kerala,205275,7,C0285,New,Male,39,UPI
+07-Sep-2025,Refrigerator,Home Appliances,Pune,Maharashtra,562414,2,C0350,New,Female,30,Cash
+27-Oct-2025,Mixer Grinder,Home Appliances,Kochi,Kerala,1453330,5,C0349,Returning,Male,19,Debit Card
+11-Aug-2025,Sofa,Furniture,Bengaluru,Karnataka,536956,2,C0320,Returning,Female,59,Credit Card
+06-Mar-2025,Wardrobe,Furniture,Ahmedabad,Gujarat,237080,8,C0146,Returning,Female,59,Net Banking
+18-Aug-2025,Air Fryer,Home Appliances,Bengaluru,Karnataka,237464,4,C0228,New,Female,45,UPI
+17-Feb-2025,Washing Machine,Home Appliances,Mumbai,Maharashtra,200562,3,C0120,Returning,Female,32,UPI
+03-Nov-2025,Camera,Electronics,Ahmedabad,Gujarat,404165,5,C0210,New,Female,19,Credit Card
+27-Dec-2025,Mouse,Electronics,Mumbai,Maharashtra,759150,5,C0146,New,Male,36,Debit Card
+18-Dec-2025,Sofa,Furniture,Delhi,Delhi,2067954,6,C0181,Returning,Male,41,Cash
+07-Jul-2025,Office Chair,Furniture,Pune,Maharashtra,1912050,6,C0232,Returning,Female,33,UPI
+12-Feb-2025,Office Chair,Furniture,Bengaluru,Karnataka,947142,6,C0396,New,Female,54,Debit Card
+26-Jan-2025,Air Conditioner,Home Appliances,Ahmedabad,Gujarat,321110,1,C0272,New,Male,38,Net Banking
+17-Sep-2025,Sofa,Furniture,Chennai,Tamil Nadu,653910,5,C0097,New,Male,44,Net Banking
+15-Apr-2025,Smart Watch,Electronics,Kochi,Kerala,1492760,5,C0101,New,Male,30,Net Banking
+26-Apr-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,505938,2,C0143,New,Male,63,Debit Card
+29-May-2025,Laptop,Electronics,Coimbatore,Tamil Nadu,296946,6,C0042,Returning,Male,36,EMI
+14-Jun-2025,Router,Electronics,Kolkata,West Bengal,490812,7,C0305,Returning,Male,42,UPI
+29-Aug-2025,Smart Watch,Electronics,Kochi,Kerala,291983,1,C0308,Returning,Female,50,EMI
+17-Jan-2025,Mixer Grinder,Home Appliances,Bengaluru,Karnataka,609590,5,C0287,New,Female,48,Net Banking
+11-Nov-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,640628,2,C0331,New,Male,48,Debit Card
+01-Aug-2025,Smart Watch,Electronics,Chennai,Tamil Nadu,322350,2,C0192,Returning,Male,59,Net Banking
+03-Apr-2025,Wardrobe,Furniture,Kochi,Kerala,259850,2,C0132,Returning,Female,65,Debit Card
+15-May-2025,Microwave,Home Appliances,Mumbai,Maharashtra,127825,5,C0392,New,Female,40,EMI
+28-Jan-2025,Router,Electronics,Coimbatore,Tamil Nadu,344332,2,C0395,New,Male,34,Net Banking
+29-Oct-2025,Mobile,Electronics,Hyderabad,Telangana,1772827,7,C0018,Returning,Female,60,Net Banking
+30-Sep-2025,Mixer Grinder,Home Appliances,Coimbatore,Tamil Nadu,1833846,6,C0087,New,Male,52,UPI
+06-May-2025,Headphones,Electronics,Delhi,Delhi,1270409,7,C0018,New,Female,57,Credit Card
+14-Sep-2025,Wardrobe,Furniture,Pune,Maharashtra,164160,3,C0089,Returning,Female,22,EMI
+11-Jun-2025,Mixer Grinder,Home Appliances,Kochi,Kerala,392874,3,C0062,Returning,Male,60,Cash
+03-Feb-2025,Monitor,Electronics,Coimbatore,Tamil Nadu,1157401,7,C0283,New,Male,29,UPI
+13-Sep-2025,Laptop,Electronics,Mumbai,Maharashtra,87252,1,C0339,Returning,Male,45,Cash
+23-Apr-2025,Laptop,Electronics,Bengaluru,Karnataka,2318330,7,C0047,Returning,Male,28,UPI
+04-Jun-2025,Headphones,Electronics,Mumbai,Maharashtra,666174,6,C0151,New,Male,22,Cash
+11-May-2025,Dining Table,Furniture,Mumbai,Maharashtra,762744,4,C0065,Returning,Male,50,Net Banking
+17-Aug-2025,Router,Electronics,Coimbatore,Tamil Nadu,1444992,8,C0213,Returning,Female,35,Credit Card
+20-Feb-2025,Air Conditioner,Home Appliances,Kolkata,West Bengal,314234,2,C0366,New,Female,23,Debit Card
+26-Nov-2025,Wardrobe,Furniture,Chennai,Tamil Nadu,896084,7,C0189,New,Female,19,Debit Card
+07-Aug-2025,Smart TV,Electronics,Pune,Maharashtra,963980,4,C0358,New,Male,28,Debit Card
+23-Nov-2025,Office Chair,Furniture,Kolkata,West Bengal,635885,5,C0189,New,Male,56,EMI
+30-Jun-2025,Bookshelf,Furniture,Mumbai,Maharashtra,500938,2,C0397,New,Male,63,Credit Card
+03-Mar-2025,Microwave,Home Appliances,Mumbai,Maharashtra,1838921,7,C0019,New,Female,36,UPI
+04-Nov-2025,Wardrobe,Furniture,Bengaluru,Karnataka,586854,3,C0331,Returning,Male,28,Debit Card
+24-Feb-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,243380,2,C0085,Returning,Female,57,Net Banking
+19-Jul-2025,Camera,Electronics,Pune,Maharashtra,89880,3,C0344,Returning,Male,42,Cash
+11-Aug-2025,Refrigerator,Home Appliances,Pune,Maharashtra,853569,3,C0044,New,Male,42,Debit Card
+07-Apr-2025,Smart Watch,Electronics,Hyderabad,Telangana,1681274,7,C0095,Returning,Male,32,Credit Card
+23-Apr-2025,Office Chair,Furniture,Bengaluru,Karnataka,1034928,4,C0063,Returning,Male,57,Cash
+10-Sep-2025,Study Desk,Furniture,Hyderabad,Telangana,76256,4,C0205,New,Male,57,Cash
+21-Oct-2025,Study Desk,Furniture,Hyderabad,Telangana,52982,2,C0078,Returning,Female,46,EMI
+07-Nov-2025,Wardrobe,Furniture,Delhi,Delhi,214813,1,C0350,New,Female,49,EMI
+13-Jun-2025,Gaming Laptop,Electronics,Bengaluru,Karnataka,1312040,4,C0255,New,Male,41,UPI
+03-Feb-2025,Tablet,Electronics,Bengaluru,Karnataka,2136240,8,C0078,Returning,Female,59,Cash
+09-Nov-2025,Refrigerator,Home Appliances,Pune,Maharashtra,519212,2,C0344,Returning,Female,36,EMI
+28-Jun-2025,Smart TV,Electronics,Coimbatore,Tamil Nadu,1004072,4,C0236,New,Female,43,UPI
+08-May-2025,Router,Electronics,Mumbai,Maharashtra,481545,5,C0099,Returning,Female,55,Cash
+22-Apr-2025,Gaming Laptop,Electronics,Bengaluru,Karnataka,1947253,7,C0393,New,Female,19,Cash
+04-Sep-2025,Mobile,Electronics,Pune,Maharashtra,539400,3,C0170,Returning,Male,58,UPI
+05-Mar-2025,Microwave,Home Appliances,Mumbai,Maharashtra,1229680,4,C0254,Returning,Female,29,EMI
+09-May-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,201184,4,C0002,Returning,Female,31,Debit Card
+09-May-2025,Dining Table,Furniture,Kolkata,West Bengal,605550,6,C0200,Returning,Female,39,Cash
+02-Aug-2025,Microwave,Home Appliances,Mumbai,Maharashtra,1967526,6,C0034,New,Female,54,Cash
+25-Jan-2025,Printer,Electronics,Pune,Maharashtra,1405088,8,C0052,Returning,Female,28,UPI
+10-Jul-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,597386,2,C0107,Returning,Female,47,Credit Card
+11-Aug-2025,Air Fryer,Home Appliances,Delhi,Delhi,862518,6,C0227,New,Male,35,EMI
+11-Mar-2025,Air Fryer,Home Appliances,Ahmedabad,Gujarat,279102,2,C0357,New,Male,32,Debit Card
+25-Oct-2025,Dining Table,Furniture,Ahmedabad,Gujarat,101194,2,C0233,Returning,Female,62,Net Banking
+29-Jun-2025,Refrigerator,Home Appliances,Ahmedabad,Gujarat,1478490,5,C0008,Returning,Male,63,UPI
+10-Mar-2025,Air Conditioner,Home Appliances,Ahmedabad,Gujarat,37871,1,C0369,Returning,Female,26,Debit Card
+16-Apr-2025,Sofa,Furniture,Delhi,Delhi,2789848,8,C0081,Returning,Male,29,Cash
+29-Dec-2025,Refrigerator,Home Appliances,Pune,Maharashtra,2382496,8,C0262,Returning,Female,57,UPI
+14-Jan-2025,Air Fryer,Home Appliances,Kochi,Kerala,2177308,7,C0139,Returning,Female,35,Net Banking
+03-Nov-2025,Monitor,Electronics,Kolkata,West Bengal,1212020,4,C0057,Returning,Male,21,Net Banking
+24-Oct-2025,Air Fryer,Home Appliances,Bengaluru,Karnataka,290858,1,C0271,New,Male,44,EMI
+19-May-2025,Refrigerator,Home Appliances,Bengaluru,Karnataka,694420,2,C0048,Returning,Male,29,Cash
+14-Feb-2025,Mixer Grinder,Home Appliances,Chennai,Tamil Nadu,583852,4,C0210,Returning,Female,62,EMI
+29-Jun-2025,Microwave,Home Appliances,Pune,Maharashtra,254020,4,C0285,New,Male,54,Credit Card
+23-Mar-2025,Wardrobe,Furniture,Chennai,Tamil Nadu,658010,2,C0327,New,Male,53,Net Banking
+21-May-2025,Mobile,Electronics,Coimbatore,Tamil Nadu,211832,2,C0042,Returning,Male,18,EMI
+31-Jan-2025,Wardrobe,Furniture,Hyderabad,Telangana,240260,2,C0337,New,Male,51,UPI
+10-Jul-2025,SSD,Electronics,Ahmedabad,Gujarat,589372,4,C0370,Returning,Male,48,Net Banking
+23-Sep-2025,Mixer Grinder,Home Appliances,Chennai,Tamil Nadu,35080,1,C0034,Returning,Male,27,EMI
+29-Sep-2025,Study Desk,Furniture,Bengaluru,Karnataka,48641,1,C0167,New,Female,42,EMI
+06-Sep-2025,Air Fryer,Home Appliances,Pune,Maharashtra,397638,3,C0343,New,Female,32,Cash
+31-Jan-2025,Camera,Electronics,Hyderabad,Telangana,980800,8,C0308,Returning,Female,51,Debit Card
+13-Jul-2025,Monitor,Electronics,Kolkata,West Bengal,758130,3,C0036,Returning,Male,36,Net Banking
+26-Aug-2025,Smart Watch,Electronics,Hyderabad,Telangana,1446444,6,C0365,Returning,Female,38,Cash
+22-Apr-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,1035900,6,C0194,Returning,Male,61,Credit Card
+27-Oct-2025,Office Chair,Furniture,Pune,Maharashtra,1044324,6,C0284,New,Male,19,EMI
+01-Mar-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,1600016,8,C0161,Returning,Female,60,Net Banking
+13-Dec-2025,Router,Electronics,Kolkata,West Bengal,293900,1,C0262,Returning,Male,18,Cash
+17-Jan-2025,Microwave,Home Appliances,Ahmedabad,Gujarat,241739,1,C0266,New,Male,23,Debit Card
+20-Nov-2025,Wardrobe,Furniture,Pune,Maharashtra,903240,3,C0187,New,Female,24,EMI
+21-Aug-2025,Study Desk,Furniture,Chennai,Tamil Nadu,802899,3,C0199,New,Female,30,Credit Card
+04-Aug-2025,Monitor,Electronics,Pune,Maharashtra,1277720,4,C0302,New,Female,59,Cash
+29-May-2025,Keyboard,Electronics,Mumbai,Maharashtra,128434,1,C0190,Returning,Male,47,Cash
+07-Jul-2025,Keyboard,Electronics,Hyderabad,Telangana,192074,1,C0195,Returning,Female,25,UPI
+04-Apr-2025,Air Conditioner,Home Appliances,Bengaluru,Karnataka,514460,4,C0358,New,Female,65,Debit Card
+19-Jul-2025,Wardrobe,Furniture,Kolkata,West Bengal,1974210,6,C0061,New,Female,65,Debit Card
+28-Jun-2025,Sofa,Furniture,Kolkata,West Bengal,1134316,4,C0267,New,Male,20,Credit Card
+09-Jul-2025,Office Chair,Furniture,Hyderabad,Telangana,459612,2,C0172,Returning,Male,54,UPI
+01-Apr-2025,Mouse,Electronics,Hyderabad,Telangana,1539246,6,C0304,New,Female,53,Net Banking
+02-Apr-2025,Refrigerator,Home Appliances,Ahmedabad,Gujarat,766530,5,C0331,Returning,Male,56,Credit Card
+29-Sep-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,749151,3,C0367,Returning,Male,22,Cash
+08-Nov-2025,Tablet,Electronics,Chennai,Tamil Nadu,1365312,8,C0147,New,Male,56,EMI
+10-May-2025,Smart Watch,Electronics,Pune,Maharashtra,102660,2,C0094,New,Male,61,EMI
+24-Jan-2025,Dining Table,Furniture,Chennai,Tamil Nadu,284895,3,C0051,New,Female,51,Debit Card
+14-Apr-2025,Office Chair,Furniture,Hyderabad,Telangana,332290,2,C0358,New,Female,36,UPI
+31-May-2025,Smart Watch,Electronics,Hyderabad,Telangana,261688,8,C0179,Returning,Female,27,Net Banking
+17-Aug-2025,Keyboard,Electronics,Bengaluru,Karnataka,541074,6,C0146,Returning,Female,33,Net Banking
+09-Jul-2025,Bookshelf,Furniture,Delhi,Delhi,1541256,6,C0204,Returning,Male,28,Credit Card
+04-Apr-2025,Air Conditioner,Home Appliances,Delhi,Delhi,735072,3,C0327,Returning,Male,47,Cash
+11-Aug-2025,Gaming Laptop,Electronics,Kolkata,West Bengal,287821,1,C0244,New,Male,56,Net Banking
+03-Jun-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,237785,5,C0206,New,Male,22,Debit Card
+17-Sep-2025,SSD,Electronics,Delhi,Delhi,1160764,4,C0145,New,Male,52,Credit Card
+22-Jan-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,1326932,4,C0395,New,Male,53,Cash
+23-Aug-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,1255790,5,C0182,Returning,Female,59,EMI
+29-Oct-2025,Washing Machine,Home Appliances,Coimbatore,Tamil Nadu,126801,3,C0143,Returning,Female,42,Net Banking
+25-Apr-2025,Microwave,Home Appliances,Kochi,Kerala,444360,8,C0331,Returning,Male,60,Cash
+26-May-2025,Sofa,Furniture,Pune,Maharashtra,96768,2,C0070,New,Female,55,UPI
+27-Feb-2025,Wardrobe,Furniture,Mumbai,Maharashtra,148134,6,C0256,Returning,Female,35,Debit Card
+08-Jan-2025,Sofa,Furniture,Coimbatore,Tamil Nadu,633670,5,C0309,Returning,Male,56,EMI
+29-Apr-2025,Washing Machine,Home Appliances,Coimbatore,Tamil Nadu,2025864,6,C0075,New,Female,50,Credit Card
+05-Jan-2025,Microwave,Home Appliances,Bengaluru,Karnataka,1317120,6,C0078,New,Female,34,UPI
+17-Dec-2025,Dining Table,Furniture,Hyderabad,Telangana,698272,2,C0161,Returning,Male,30,UPI
+10-Apr-2025,Gaming Laptop,Electronics,Kochi,Kerala,259599,3,C0122,Returning,Female,44,Debit Card
+01-Jul-2025,Office Chair,Furniture,Pune,Maharashtra,670002,2,C0354,Returning,Male,23,Credit Card
+23-Dec-2025,SSD,Electronics,Hyderabad,Telangana,1381376,8,C0255,Returning,Female,38,Cash
+02-Dec-2025,Air Conditioner,Home Appliances,Kolkata,West Bengal,775355,5,C0241,Returning,Male,57,Cash
+09-Jul-2025,Laptop,Electronics,Coimbatore,Tamil Nadu,578026,2,C0093,New,Male,54,EMI
+22-Mar-2025,Refrigerator,Home Appliances,Mumbai,Maharashtra,2346456,7,C0103,Returning,Female,46,Credit Card
+26-Jul-2025,Washing Machine,Home Appliances,Hyderabad,Telangana,273224,1,C0325,New,Female,54,Credit Card
+11-Jan-2025,Keyboard,Electronics,Pune,Maharashtra,825832,7,C0111,Returning,Female,28,UPI
+09-Apr-2025,Refrigerator,Home Appliances,Ahmedabad,Gujarat,1346540,5,C0140,Returning,Male,23,Cash
+30-May-2025,Bookshelf,Furniture,Ahmedabad,Gujarat,638454,3,C0094,Returning,Male,52,UPI
+13-Jan-2025,Monitor,Electronics,Kolkata,West Bengal,95799,3,C0043,New,Female,40,EMI
+13-Oct-2025,Air Fryer,Home Appliances,Ahmedabad,Gujarat,1764833,7,C0344,New,Female,44,EMI
+08-Aug-2025,Office Chair,Furniture,Kochi,Kerala,1393535,5,C0353,Returning,Male,41,UPI
+17-Sep-2025,Bookshelf,Furniture,Chennai,Tamil Nadu,214260,6,C0315,Returning,Female,48,Cash
+13-Apr-2025,Refrigerator,Home Appliances,Ahmedabad,Gujarat,333476,4,C0253,Returning,Male,57,Cash
+28-Aug-2025,Bookshelf,Furniture,Chennai,Tamil Nadu,809081,7,C0367,Returning,Female,33,UPI
+03-Mar-2025,Bookshelf,Furniture,Coimbatore,Tamil Nadu,542298,6,C0383,Returning,Female,49,Cash
+07-Jan-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,2411936,8,C0167,New,Female,39,Cash
+09-May-2025,Microwave,Home Appliances,Delhi,Delhi,1389630,5,C0295,New,Female,57,Debit Card
+20-Nov-2025,Keyboard,Electronics,Mumbai,Maharashtra,2310976,8,C0382,Returning,Male,41,Cash
+20-Jul-2025,Air Fryer,Home Appliances,Bengaluru,Karnataka,646662,2,C0313,Returning,Female,24,Credit Card
+10-May-2025,Mixer Grinder,Home Appliances,Hyderabad,Telangana,71175,1,C0161,New,Female,64,Credit Card
+15-Mar-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,1224618,6,C0172,Returning,Female,27,Credit Card
+30-Dec-2025,Sofa,Furniture,Coimbatore,Tamil Nadu,216023,1,C0025,Returning,Male,28,UPI
+23-May-2025,Laptop,Electronics,Kolkata,West Bengal,494578,7,C0013,New,Male,60,Credit Card
+14-Aug-2025,Microwave,Home Appliances,Chennai,Tamil Nadu,732102,7,C0034,New,Male,24,Net Banking
+04-Jan-2025,Sofa,Furniture,Ahmedabad,Gujarat,1302052,4,C0026,New,Male,53,EMI
+22-Apr-2025,Office Chair,Furniture,Coimbatore,Tamil Nadu,196340,1,C0342,Returning,Male,43,Credit Card
+30-Apr-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,86199,3,C0133,Returning,Female,30,Debit Card
+07-Nov-2025,Tablet,Electronics,Kolkata,West Bengal,46313,1,C0104,Returning,Male,24,Net Banking
+13-Jul-2025,Mixer Grinder,Home Appliances,Pune,Maharashtra,1612275,7,C0072,New,Female,43,EMI
+12-Aug-2025,Wardrobe,Furniture,Hyderabad,Telangana,795207,7,C0217,Returning,Male,29,EMI
+29-Nov-2025,Headphones,Electronics,Bengaluru,Karnataka,134672,2,C0065,New,Male,19,Net Banking
+16-Jun-2025,Wardrobe,Furniture,Kochi,Kerala,426562,2,C0146,Returning,Male,19,Debit Card
+09-May-2025,Air Conditioner,Home Appliances,Ahmedabad,Gujarat,904329,3,C0381,New,Female,18,EMI
+30-Apr-2025,Bookshelf,Furniture,Ahmedabad,Gujarat,711876,6,C0136,Returning,Male,61,Debit Card
+11-Dec-2025,Washing Machine,Home Appliances,Hyderabad,Telangana,1676435,5,C0123,New,Female,21,Debit Card
+10-Dec-2025,Office Chair,Furniture,Pune,Maharashtra,860344,8,C0088,New,Female,63,EMI
+28-Feb-2025,Study Desk,Furniture,Mumbai,Maharashtra,793611,3,C0136,Returning,Male,33,EMI
+13-Sep-2025,Wardrobe,Furniture,Ahmedabad,Gujarat,596004,3,C0353,Returning,Male,64,UPI
+10-Apr-2025,Dining Table,Furniture,Hyderabad,Telangana,617121,3,C0199,New,Male,37,EMI
+08-Oct-2025,Mixer Grinder,Home Appliances,Pune,Maharashtra,502557,3,C0091,New,Male,34,EMI
+14-May-2025,Dining Table,Furniture,Ahmedabad,Gujarat,291513,1,C0271,New,Female,64,Net Banking
+10-Jun-2025,Mixer Grinder,Home Appliances,Mumbai,Maharashtra,1342908,6,C0124,Returning,Female,35,Debit Card
+04-May-2025,Sofa,Furniture,Pune,Maharashtra,645858,3,C0227,Returning,Female,41,Cash
+27-Dec-2025,Dining Table,Furniture,Coimbatore,Tamil Nadu,15003,1,C0102,New,Male,63,Net Banking
+27-Apr-2025,Laptop,Electronics,Pune,Maharashtra,889449,3,C0055,Returning,Male,26,Net Banking
+22-Mar-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,371889,3,C0127,Returning,Male,52,Net Banking
+08-Feb-2025,Monitor,Electronics,Pune,Maharashtra,365564,4,C0117,New,Female,26,UPI
+02-May-2025,Washing Machine,Home Appliances,Coimbatore,Tamil Nadu,203640,8,C0388,New,Female,37,UPI
+29-Nov-2025,Air Fryer,Home Appliances,Hyderabad,Telangana,523944,3,C0255,Returning,Male,63,EMI
+11-Jul-2025,Air Fryer,Home Appliances,Kolkata,West Bengal,590636,2,C0124,New,Male,39,UPI
+29-Nov-2025,Monitor,Electronics,Kochi,Kerala,86224,4,C0103,New,Female,47,Debit Card
+18-Nov-2025,Sofa,Furniture,Ahmedabad,Gujarat,1610196,6,C0270,New,Female,35,EMI
+10-Jul-2025,Router,Electronics,Kochi,Kerala,152574,2,C0345,Returning,Male,18,Credit Card
+14-Mar-2025,Dining Table,Furniture,Chennai,Tamil Nadu,1690800,8,C0352,New,Male,24,Cash
+30-Oct-2025,Smart Watch,Electronics,Hyderabad,Telangana,2053596,6,C0207,New,Female,44,EMI
+19-Aug-2025,Monitor,Electronics,Kolkata,West Bengal,657966,6,C0353,Returning,Male,41,Cash
+13-Sep-2025,Mouse,Electronics,Hyderabad,Telangana,274653,3,C0335,New,Female,53,UPI
+26-Jul-2025,Dining Table,Furniture,Kochi,Kerala,210915,5,C0038,Returning,Male,31,UPI
+11-Jul-2025,Washing Machine,Home Appliances,Coimbatore,Tamil Nadu,874806,6,C0350,Returning,Male,48,UPI
+27-Feb-2025,Microwave,Home Appliances,Mumbai,Maharashtra,822432,3,C0106,Returning,Female,22,Net Banking
+18-Nov-2025,Sofa,Furniture,Kolkata,West Bengal,305451,3,C0157,New,Male,24,UPI
+01-May-2025,Wardrobe,Furniture,Coimbatore,Tamil Nadu,507008,8,C0165,Returning,Female,45,EMI
+07-May-2025,Microwave,Home Appliances,Bengaluru,Karnataka,590679,3,C0390,New,Female,30,EMI
+13-Dec-2025,Dining Table,Furniture,Ahmedabad,Gujarat,590277,3,C0299,Returning,Male,30,Cash
+25-Oct-2025,Dining Table,Furniture,Mumbai,Maharashtra,1258050,6,C0392,Returning,Female,50,EMI
+28-Aug-2025,Office Chair,Furniture,Bengaluru,Karnataka,139117,1,C0258,Returning,Female,26,Net Banking
+21-Oct-2025,Air Conditioner,Home Appliances,Ahmedabad,Gujarat,452250,6,C0172,Returning,Female,22,Credit Card
+29-Jun-2025,Sofa,Furniture,Ahmedabad,Gujarat,900564,4,C0032,Returning,Female,28,Credit Card
+18-Jan-2025,Washing Machine,Home Appliances,Pune,Maharashtra,170112,1,C0184,Returning,Female,47,UPI
+24-May-2025,Wardrobe,Furniture,Hyderabad,Telangana,260772,4,C0085,New,Male,61,Net Banking
+17-May-2025,Mixer Grinder,Home Appliances,Kochi,Kerala,2164631,7,C0235,New,Male,56,Debit Card
+10-Mar-2025,Bookshelf,Furniture,Mumbai,Maharashtra,264004,4,C0020,New,Female,65,UPI
+09-Apr-2025,Sofa,Furniture,Mumbai,Maharashtra,810328,4,C0155,Returning,Female,45,Cash
+25-Jun-2025,Monitor,Electronics,Ahmedabad,Gujarat,1959412,7,C0061,Returning,Female,29,EMI
+26-Jul-2025,Sofa,Furniture,Chennai,Tamil Nadu,276903,3,C0369,New,Female,51,Credit Card
+24-Sep-2025,Headphones,Electronics,Delhi,Delhi,664285,5,C0380,New,Male,64,UPI
+28-Nov-2025,Smart TV,Electronics,Bengaluru,Karnataka,126258,3,C0068,New,Female,34,Credit Card
+29-Jul-2025,Air Fryer,Home Appliances,Delhi,Delhi,107419,1,C0113,Returning,Female,26,Net Banking
+12-Oct-2025,Wardrobe,Furniture,Kochi,Kerala,336725,1,C0339,New,Male,58,Debit Card
+30-Dec-2025,Study Desk,Furniture,Mumbai,Maharashtra,2081457,7,C0005,Returning,Male,57,Net Banking
+09-Oct-2025,Sofa,Furniture,Coimbatore,Tamil Nadu,162191,1,C0174,New,Male,21,Debit Card
+07-Jun-2025,Bookshelf,Furniture,Bengaluru,Karnataka,71943,3,C0346,Returning,Female,33,Net Banking
+01-Jan-2025,Study Desk,Furniture,Mumbai,Maharashtra,2351808,8,C0306,New,Male,65,Net Banking
+16-Feb-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,609343,7,C0062,New,Female,32,Net Banking
+31-Mar-2025,Mixer Grinder,Home Appliances,Ahmedabad,Gujarat,1004538,6,C0226,Returning,Male,42,Net Banking
+02-Jan-2025,Router,Electronics,Chennai,Tamil Nadu,593325,3,C0038,New,Male,48,Cash
+05-Mar-2025,Office Chair,Furniture,Kolkata,West Bengal,614736,2,C0371,New,Male,43,UPI
+12-Jul-2025,Dining Table,Furniture,Hyderabad,Telangana,679029,3,C0124,Returning,Female,34,Debit Card
+20-Oct-2025,Microwave,Home Appliances,Ahmedabad,Gujarat,1224307,7,C0120,New,Female,55,Credit Card
+27-Apr-2025,Office Chair,Furniture,Coimbatore,Tamil Nadu,127530,5,C0080,New,Male,25,UPI
+10-May-2025,Dining Table,Furniture,Kochi,Kerala,645110,5,C0093,New,Male,22,UPI
+30-Jun-2025,Washing Machine,Home Appliances,Delhi,Delhi,1509592,8,C0346,Returning,Male,33,Debit Card
+19-Mar-2025,Microwave,Home Appliances,Coimbatore,Tamil Nadu,284940,4,C0123,Returning,Female,57,Debit Card
+05-Jul-2025,Office Chair,Furniture,Hyderabad,Telangana,1994730,6,C0362,New,Male,27,Debit Card
+02-Dec-2025,Monitor,Electronics,Coimbatore,Tamil Nadu,241110,2,C0132,New,Female,43,EMI
+10-Jan-2025,Smart TV,Electronics,Chennai,Tamil Nadu,316612,1,C0194,Returning,Female,58,Debit Card
+18-May-2025,Washing Machine,Home Appliances,Delhi,Delhi,1041411,3,C0069,Returning,Female,49,Net Banking
+19-Sep-2025,Bookshelf,Furniture,Kolkata,West Bengal,207688,8,C0094,Returning,Female,30,Credit Card
+01-Sep-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,1645825,5,C0289,New,Female,61,Net Banking
+13-Nov-2025,Refrigerator,Home Appliances,Mumbai,Maharashtra,553482,6,C0323,New,Male,59,EMI
+28-Oct-2025,Bookshelf,Furniture,Mumbai,Maharashtra,2382176,8,C0201,Returning,Male,24,UPI
+14-Jan-2025,Office Chair,Furniture,Coimbatore,Tamil Nadu,687099,3,C0102,Returning,Male,62,Cash
+05-Jul-2025,Office Chair,Furniture,Kochi,Kerala,91317,3,C0370,Returning,Male,42,EMI
+27-Jun-2025,Mouse,Electronics,Ahmedabad,Gujarat,634380,3,C0379,Returning,Male,33,Debit Card
+27-May-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,1373644,4,C0260,Returning,Male,58,UPI
+21-Jul-2025,Bookshelf,Furniture,Ahmedabad,Gujarat,105668,1,C0240,New,Female,43,Cash
+26-Jun-2025,Air Fryer,Home Appliances,Pune,Maharashtra,1755402,6,C0242,New,Female,28,EMI
+15-Mar-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,344070,3,C0052,New,Female,22,EMI
+05-Sep-2025,Washing Machine,Home Appliances,Hyderabad,Telangana,637432,2,C0173,New,Female,61,Net Banking
+27-Jul-2025,Headphones,Electronics,Mumbai,Maharashtra,115731,3,C0069,Returning,Female,31,Debit Card
+06-Mar-2025,Air Conditioner,Home Appliances,Mumbai,Maharashtra,412206,3,C0154,Returning,Male,23,Credit Card
+21-Jun-2025,Air Conditioner,Home Appliances,Kolkata,West Bengal,2730456,8,C0295,New,Female,24,EMI
+30-Sep-2025,Study Desk,Furniture,Kochi,Kerala,149656,8,C0374,Returning,Female,50,UPI
+13-Nov-2025,SSD,Electronics,Ahmedabad,Gujarat,968172,6,C0197,New,Male,57,Net Banking
+29-Jan-2025,Headphones,Electronics,Bengaluru,Karnataka,921174,3,C0387,Returning,Male,39,Debit Card
+08-Jun-2025,Office Chair,Furniture,Kochi,Kerala,223413,1,C0158,New,Male,43,Cash
+19-Apr-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,705608,4,C0071,Returning,Male,56,EMI
+03-Feb-2025,Tablet,Electronics,Delhi,Delhi,2464344,8,C0107,New,Male,28,Cash
+18-Sep-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,466722,2,C0085,New,Female,65,Credit Card
+17-Feb-2025,Microwave,Home Appliances,Ahmedabad,Gujarat,926919,3,C0150,New,Male,39,Net Banking
+18-Sep-2025,Printer,Electronics,Delhi,Delhi,189067,1,C0152,Returning,Female,56,Debit Card
+06-Jan-2025,Refrigerator,Home Appliances,Ahmedabad,Gujarat,558204,6,C0128,New,Male,46,Net Banking
+06-Dec-2025,Mixer Grinder,Home Appliances,Chennai,Tamil Nadu,2439787,7,C0098,New,Male,19,EMI
+19-Aug-2025,Dining Table,Furniture,Mumbai,Maharashtra,268740,2,C0125,Returning,Female,64,Net Banking
+19-Nov-2025,Mixer Grinder,Home Appliances,Delhi,Delhi,41674,1,C0277,Returning,Male,55,Debit Card
+25-Mar-2025,Camera,Electronics,Bengaluru,Karnataka,191209,1,C0164,New,Female,60,Credit Card
+17-Jul-2025,Mobile,Electronics,Coimbatore,Tamil Nadu,2247945,7,C0016,New,Male,46,Debit Card
+12-Mar-2025,Camera,Electronics,Bengaluru,Karnataka,968307,3,C0062,New,Male,41,Debit Card
+23-Oct-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,874764,6,C0364,Returning,Male,63,UPI
+08-Apr-2025,Sofa,Furniture,Coimbatore,Tamil Nadu,604880,5,C0302,New,Female,65,UPI
+25-Oct-2025,Bookshelf,Furniture,Kolkata,West Bengal,342609,3,C0295,New,Female,32,Credit Card
+12-May-2025,Dining Table,Furniture,Mumbai,Maharashtra,437808,2,C0302,Returning,Female,43,Net Banking
+21-May-2025,Study Desk,Furniture,Pune,Maharashtra,464698,2,C0248,Returning,Female,40,Credit Card
+13-Jul-2025,Smart Watch,Electronics,Kolkata,West Bengal,184806,2,C0123,New,Male,32,Net Banking
+07-Sep-2025,Microwave,Home Appliances,Pune,Maharashtra,1040456,4,C0325,Returning,Female,61,UPI
+13-Jul-2025,Gaming Laptop,Electronics,Pune,Maharashtra,47968,1,C0196,Returning,Male,21,Net Banking
+31-Dec-2025,Microwave,Home Appliances,Pune,Maharashtra,1657074,6,C0188,New,Female,48,Credit Card
+30-Dec-2025,Microwave,Home Appliances,Hyderabad,Telangana,2711808,8,C0301,Returning,Female,40,Credit Card
+14-Nov-2025,Washing Machine,Home Appliances,Mumbai,Maharashtra,542740,4,C0389,New,Female,26,EMI
+24-Mar-2025,Wardrobe,Furniture,Pune,Maharashtra,997626,7,C0243,Returning,Male,28,UPI
+16-May-2025,Study Desk,Furniture,Kochi,Kerala,315795,5,C0391,New,Female,58,UPI
+01-May-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,236301,3,C0279,New,Female,34,Debit Card
+25-Apr-2025,Dining Table,Furniture,Pune,Maharashtra,442472,4,C0335,Returning,Female,53,Debit Card
+28-Nov-2025,Wardrobe,Furniture,Kolkata,West Bengal,510650,7,C0054,Returning,Female,31,Credit Card
+03-Jan-2025,Gaming Laptop,Electronics,Ahmedabad,Gujarat,1763136,6,C0125,Returning,Female,19,EMI
+17-May-2025,Air Fryer,Home Appliances,Kochi,Kerala,794703,7,C0100,New,Male,21,Debit Card
+07-Aug-2025,Microwave,Home Appliances,Chennai,Tamil Nadu,1474416,6,C0321,New,Female,40,Net Banking
+18-Oct-2025,Study Desk,Furniture,Hyderabad,Telangana,1335244,4,C0360,New,Female,22,EMI
+06-Oct-2025,Bookshelf,Furniture,Mumbai,Maharashtra,1330504,4,C0386,Returning,Male,40,Credit Card
+23-May-2025,Wardrobe,Furniture,Bengaluru,Karnataka,1222688,8,C0128,New,Female,44,UPI
+05-Apr-2025,Monitor,Electronics,Ahmedabad,Gujarat,987918,3,C0018,New,Male,24,Credit Card
+12-Mar-2025,Laptop,Electronics,Kolkata,West Bengal,723492,3,C0137,New,Female,29,Cash
+27-Nov-2025,Dining Table,Furniture,Pune,Maharashtra,2129393,7,C0226,Returning,Male,48,UPI
+26-Mar-2025,Sofa,Furniture,Kolkata,West Bengal,815660,5,C0078,New,Female,30,Net Banking
+16-Jul-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,972762,6,C0193,Returning,Female,39,EMI
+29-Jun-2025,Wardrobe,Furniture,Kolkata,West Bengal,1303208,4,C0303,Returning,Male,20,Cash
+31-Aug-2025,Washing Machine,Home Appliances,Ahmedabad,Gujarat,1563165,5,C0013,Returning,Male,23,Net Banking
+28-Jan-2025,Microwave,Home Appliances,Kochi,Kerala,472974,2,C0120,Returning,Female,22,Credit Card
+12-Jan-2025,Mixer Grinder,Home Appliances,Ahmedabad,Gujarat,628654,2,C0082,Returning,Male,55,Cash
+25-May-2025,Study Desk,Furniture,Hyderabad,Telangana,1363116,6,C0132,New,Male,56,Credit Card
+18-Apr-2025,Microwave,Home Appliances,Delhi,Delhi,1076505,5,C0227,New,Female,20,Net Banking
+13-Oct-2025,Washing Machine,Home Appliances,Delhi,Delhi,2362633,7,C0383,New,Male,45,EMI
+13-Apr-2025,Washing Machine,Home Appliances,Hyderabad,Telangana,262454,2,C0070,New,Female,59,Net Banking
+31-Dec-2025,Study Desk,Furniture,Ahmedabad,Gujarat,274128,2,C0263,New,Male,59,Credit Card
+25-Oct-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,226210,5,C0080,New,Female,50,Credit Card
+19-Jul-2025,Microwave,Home Appliances,Chennai,Tamil Nadu,459040,5,C0162,Returning,Female,42,Credit Card
+27-Dec-2025,Bookshelf,Furniture,Kolkata,West Bengal,2051968,8,C0300,New,Male,27,Credit Card
+19-May-2025,Refrigerator,Home Appliances,Hyderabad,Telangana,1268728,8,C0155,Returning,Male,49,UPI
+21-Oct-2025,Headphones,Electronics,Kochi,Kerala,695010,2,C0320,Returning,Female,18,Credit Card
+02-Mar-2025,Laptop,Electronics,Chennai,Tamil Nadu,298612,2,C0274,Returning,Female,36,UPI
+30-Oct-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,681898,2,C0340,New,Male,49,Debit Card
+29-Jun-2025,Office Chair,Furniture,Bengaluru,Karnataka,992322,3,C0081,Returning,Male,31,Net Banking
+05-Nov-2025,Mixer Grinder,Home Appliances,Pune,Maharashtra,1486085,5,C0090,Returning,Female,64,UPI
+03-Mar-2025,Air Conditioner,Home Appliances,Pune,Maharashtra,469360,4,C0196,Returning,Female,29,Debit Card
+25-Mar-2025,Dining Table,Furniture,Kochi,Kerala,1900578,6,C0016,New,Female,43,Net Banking
+28-Mar-2025,Camera,Electronics,Pune,Maharashtra,2698936,8,C0270,Returning,Female,58,Net Banking
+12-Oct-2025,Dining Table,Furniture,Delhi,Delhi,1131865,5,C0247,New,Male,22,Debit Card
+08-Sep-2025,Mixer Grinder,Home Appliances,Kochi,Kerala,106946,1,C0049,Returning,Male,42,UPI
+17-Oct-2025,Laptop,Electronics,Kolkata,West Bengal,110877,3,C0050,Returning,Male,34,EMI
+07-Apr-2025,Gaming Laptop,Electronics,Pune,Maharashtra,192193,1,C0348,Returning,Male,22,Debit Card
+13-Nov-2025,Mobile,Electronics,Kochi,Kerala,691278,7,C0166,New,Female,45,Debit Card
+18-Feb-2025,Monitor,Electronics,Mumbai,Maharashtra,1912686,6,C0290,New,Male,49,Debit Card
+24-Mar-2025,Wardrobe,Furniture,Chennai,Tamil Nadu,664540,5,C0288,Returning,Female,55,EMI
+22-Aug-2025,Study Desk,Furniture,Kolkata,West Bengal,414735,3,C0037,Returning,Female,40,EMI
+17-Jan-2025,Monitor,Electronics,Ahmedabad,Gujarat,1587864,8,C0013,New,Female,31,Debit Card
+18-Jul-2025,Printer,Electronics,Pune,Maharashtra,981533,7,C0355,New,Female,56,Cash
+13-Jul-2025,Smart TV,Electronics,Pune,Maharashtra,571780,4,C0317,New,Male,21,Debit Card
+02-Nov-2025,Router,Electronics,Delhi,Delhi,158694,3,C0272,New,Male,49,UPI
+19-Oct-2025,Monitor,Electronics,Ahmedabad,Gujarat,347023,1,C0094,Returning,Male,64,Cash
+05-Nov-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,918804,3,C0051,Returning,Male,27,UPI
+23-Sep-2025,Washing Machine,Home Appliances,Delhi,Delhi,902664,4,C0104,Returning,Male,60,UPI
+12-Oct-2025,Refrigerator,Home Appliances,Chennai,Tamil Nadu,108825,1,C0358,New,Female,55,Debit Card
+12-Sep-2025,Office Chair,Furniture,Hyderabad,Telangana,495798,2,C0317,Returning,Female,63,Cash
+10-May-2025,Bookshelf,Furniture,Delhi,Delhi,2087925,7,C0358,Returning,Male,57,Debit Card
+28-May-2025,Wardrobe,Furniture,Kolkata,West Bengal,746435,5,C0130,New,Female,42,EMI
+10-Mar-2025,Washing Machine,Home Appliances,Delhi,Delhi,762129,3,C0285,New,Male,40,Credit Card
+06-Jan-2025,Air Fryer,Home Appliances,Kolkata,West Bengal,1049395,5,C0295,Returning,Female,38,Cash
+27-Jul-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,1971368,8,C0195,New,Male,27,Debit Card
+25-Feb-2025,Refrigerator,Home Appliances,Chennai,Tamil Nadu,115083,3,C0076,New,Female,28,UPI
+18-Dec-2025,Headphones,Electronics,Delhi,Delhi,294910,1,C0170,Returning,Male,53,Credit Card
+11-Dec-2025,Wardrobe,Furniture,Mumbai,Maharashtra,1041580,4,C0260,New,Female,58,UPI
+26-Jan-2025,Air Conditioner,Home Appliances,Chennai,Tamil Nadu,743790,3,C0086,Returning,Female,43,UPI
+04-Feb-2025,Study Desk,Furniture,Kolkata,West Bengal,483840,8,C0190,Returning,Female,52,Net Banking
+28-Oct-2025,Gaming Laptop,Electronics,Pune,Maharashtra,2029656,6,C0237,New,Female,19,UPI
+18-May-2025,Wardrobe,Furniture,Bengaluru,Karnataka,1382360,8,C0208,Returning,Male,54,Credit Card
+30-Dec-2025,Study Desk,Furniture,Mumbai,Maharashtra,265605,1,C0236,New,Male,18,Credit Card
+24-Dec-2025,Refrigerator,Home Appliances,Pune,Maharashtra,839244,3,C0108,Returning,Female,23,Cash
+16-Apr-2025,Monitor,Electronics,Ahmedabad,Gujarat,1695232,8,C0284,New,Male,19,Debit Card
+20-Oct-2025,Refrigerator,Home Appliances,Hyderabad,Telangana,487040,2,C0062,New,Female,55,Net Banking
+09-Mar-2025,Sofa,Furniture,Ahmedabad,Gujarat,512410,2,C0205,Returning,Female,21,Debit Card
+26-Jan-2025,Air Fryer,Home Appliances,Kolkata,West Bengal,1625603,7,C0288,New,Female,52,Cash
+08-Feb-2025,Headphones,Electronics,Coimbatore,Tamil Nadu,1130088,6,C0015,New,Male,56,UPI
+07-Aug-2025,Microwave,Home Appliances,Mumbai,Maharashtra,649298,2,C0112,Returning,Female,54,Cash
+29-Mar-2025,Bookshelf,Furniture,Kolkata,West Bengal,430731,3,C0052,New,Male,63,Cash
+04-Aug-2025,Dining Table,Furniture,Pune,Maharashtra,224090,5,C0247,New,Male,59,Debit Card
+20-Oct-2025,Dining Table,Furniture,Kochi,Kerala,619170,5,C0282,New,Female,21,Credit Card
+19-Jan-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,477297,3,C0251,Returning,Female,44,Credit Card
+19-Dec-2025,Office Chair,Furniture,Pune,Maharashtra,836486,7,C0370,New,Female,51,UPI
+03-Mar-2025,Microwave,Home Appliances,Chennai,Tamil Nadu,586764,2,C0216,New,Female,33,UPI
+18-Apr-2025,Wardrobe,Furniture,Bengaluru,Karnataka,116154,3,C0139,Returning,Male,39,UPI
+14-Jun-2025,Bookshelf,Furniture,Delhi,Delhi,107914,2,C0274,New,Female,57,Debit Card
+16-Apr-2025,Office Chair,Furniture,Kochi,Kerala,326319,7,C0231,New,Female,31,UPI
+30-Mar-2025,Printer,Electronics,Mumbai,Maharashtra,767480,7,C0349,New,Female,48,EMI
+17-Dec-2025,Air Fryer,Home Appliances,Chennai,Tamil Nadu,37166,1,C0033,Returning,Male,42,Credit Card
+16-Aug-2025,Camera,Electronics,Kochi,Kerala,1331604,4,C0229,New,Male,45,Net Banking
+23-Sep-2025,Air Fryer,Home Appliances,Kochi,Kerala,1350384,6,C0316,Returning,Male,53,Debit Card
+02-Apr-2025,Keyboard,Electronics,Bengaluru,Karnataka,62930,2,C0337,Returning,Female,31,Debit Card
+24-Dec-2025,Wardrobe,Furniture,Bengaluru,Karnataka,159547,1,C0297,Returning,Male,38,Cash
+04-Jan-2025,Air Conditioner,Home Appliances,Hyderabad,Telangana,500610,3,C0037,Returning,Male,23,Credit Card
+23-Mar-2025,Bookshelf,Furniture,Coimbatore,Tamil Nadu,1213985,5,C0345,New,Female,35,Debit Card
+03-May-2025,SSD,Electronics,Chennai,Tamil Nadu,367515,5,C0361,New,Female,42,Net Banking
+13-Apr-2025,SSD,Electronics,Coimbatore,Tamil Nadu,958388,4,C0277,New,Female,31,UPI
+09-Oct-2025,Bookshelf,Furniture,Ahmedabad,Gujarat,748975,5,C0178,Returning,Female,35,Cash
+18-Aug-2025,Laptop,Electronics,Pune,Maharashtra,1732664,8,C0142,Returning,Male,53,Credit Card
+15-Oct-2025,SSD,Electronics,Pune,Maharashtra,2190608,7,C0115,New,Male,55,Net Banking
+07-Jan-2025,Printer,Electronics,Mumbai,Maharashtra,595539,3,C0208,New,Male,49,UPI
+24-Mar-2025,Sofa,Furniture,Delhi,Delhi,233327,1,C0171,New,Female,46,Cash
+07-Aug-2025,Router,Electronics,Kolkata,West Bengal,473320,2,C0033,New,Male,25,Cash
+01-Dec-2025,Wardrobe,Furniture,Ahmedabad,Gujarat,870858,3,C0189,Returning,Male,40,Net Banking
+01-Jul-2025,Dining Table,Furniture,Chennai,Tamil Nadu,363240,2,C0172,New,Male,43,Credit Card
+31-Jul-2025,Laptop,Electronics,Coimbatore,Tamil Nadu,1518216,7,C0349,Returning,Male,28,Cash
+03-Nov-2025,Monitor,Electronics,Chennai,Tamil Nadu,558532,4,C0138,New,Female,61,EMI
+21-Jan-2025,Air Conditioner,Home Appliances,Bengaluru,Karnataka,684530,5,C0332,New,Male,57,Debit Card
+16-Nov-2025,Bookshelf,Furniture,Chennai,Tamil Nadu,228286,1,C0003,Returning,Female,33,UPI
+04-Feb-2025,Laptop,Electronics,Bengaluru,Karnataka,377700,6,C0087,Returning,Male,39,EMI
+09-Dec-2025,SSD,Electronics,Mumbai,Maharashtra,234405,3,C0256,New,Female,48,EMI
+09-Jul-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,1151248,7,C0257,Returning,Male,24,Credit Card
+01-Dec-2025,Microwave,Home Appliances,Kolkata,West Bengal,207292,4,C0182,Returning,Female,64,UPI
+24-May-2025,Dining Table,Furniture,Kolkata,West Bengal,380712,2,C0342,Returning,Female,36,Cash
+27-May-2025,Dining Table,Furniture,Hyderabad,Telangana,1111488,8,C0147,New,Female,36,Cash
+05-May-2025,Wardrobe,Furniture,Bengaluru,Karnataka,369600,5,C0267,New,Female,57,Net Banking
+01-Mar-2025,Refrigerator,Home Appliances,Bengaluru,Karnataka,1295226,6,C0139,New,Male,61,Debit Card
+04-Feb-2025,Office Chair,Furniture,Kolkata,West Bengal,812004,3,C0203,New,Male,52,UPI
+21-Apr-2025,Sofa,Furniture,Coimbatore,Tamil Nadu,277968,3,C0233,Returning,Female,59,Net Banking
+12-Feb-2025,Wardrobe,Furniture,Bengaluru,Karnataka,2755880,8,C0143,New,Female,34,Cash
+25-May-2025,Smart Watch,Electronics,Pune,Maharashtra,1362928,8,C0091,Returning,Male,50,Cash
+21-Sep-2025,Washing Machine,Home Appliances,Hyderabad,Telangana,580476,4,C0376,New,Female,59,Cash
+30-Dec-2025,Sofa,Furniture,Coimbatore,Tamil Nadu,1535988,6,C0372,New,Female,63,Net Banking
+17-Jul-2025,Laptop,Electronics,Bengaluru,Karnataka,2383808,7,C0370,Returning,Female,49,Net Banking
+15-Jul-2025,Air Conditioner,Home Appliances,Ahmedabad,Gujarat,530696,4,C0055,New,Female,46,Cash
+28-Aug-2025,Air Conditioner,Home Appliances,Bengaluru,Karnataka,307768,4,C0125,Returning,Male,37,Cash
+06-May-2025,Mobile,Electronics,Hyderabad,Telangana,1310832,4,C0352,New,Female,49,Debit Card
+04-Aug-2025,Laptop,Electronics,Kochi,Kerala,87212,4,C0288,Returning,Female,59,EMI
+07-Sep-2025,Air Fryer,Home Appliances,Kochi,Kerala,345852,4,C0347,New,Female,63,EMI
+25-Jan-2025,Dining Table,Furniture,Bengaluru,Karnataka,2318680,8,C0074,New,Male,26,Credit Card
+08-Aug-2025,Bookshelf,Furniture,Delhi,Delhi,1142832,6,C0004,Returning,Female,22,UPI
+21-Nov-2025,Microwave,Home Appliances,Bengaluru,Karnataka,856590,6,C0154,New,Male,57,EMI
+28-Mar-2025,Smart Watch,Electronics,Chennai,Tamil Nadu,564954,3,C0221,Returning,Male,52,Cash
+11-Feb-2025,Keyboard,Electronics,Kochi,Kerala,224033,1,C0193,Returning,Male,65,Debit Card
+05-Mar-2025,Air Fryer,Home Appliances,Kolkata,West Bengal,353598,6,C0330,Returning,Male,20,UPI
+03-Nov-2025,Smart Watch,Electronics,Mumbai,Maharashtra,1564512,8,C0372,New,Female,19,Debit Card
+30-Jan-2025,Sofa,Furniture,Mumbai,Maharashtra,297060,6,C0377,Returning,Female,59,Cash
+16-Jan-2025,Bookshelf,Furniture,Hyderabad,Telangana,725468,4,C0190,Returning,Female,47,Credit Card
+30-Nov-2025,Sofa,Furniture,Chennai,Tamil Nadu,194607,7,C0044,Returning,Male,51,Net Banking
+10-Jan-2025,Smart Watch,Electronics,Bengaluru,Karnataka,233367,1,C0159,New,Male,30,Debit Card
+12-Aug-2025,Router,Electronics,Kolkata,West Bengal,1017272,8,C0207,New,Female,58,EMI
+21-Jul-2025,Wardrobe,Furniture,Bengaluru,Karnataka,1986960,6,C0211,New,Female,51,Cash
+12-Jul-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,95678,1,C0338,New,Male,57,Debit Card
+31-Aug-2025,Office Chair,Furniture,Hyderabad,Telangana,147144,8,C0383,New,Female,37,UPI
+13-Dec-2025,Smart Watch,Electronics,Ahmedabad,Gujarat,1611344,7,C0277,Returning,Female,30,Credit Card
+19-Sep-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,880158,6,C0007,Returning,Male,21,UPI
+14-Nov-2025,Washing Machine,Home Appliances,Coimbatore,Tamil Nadu,370928,8,C0116,Returning,Female,43,UPI
+11-Aug-2025,SSD,Electronics,Pune,Maharashtra,472682,2,C0347,New,Male,34,Cash
+24-May-2025,Microwave,Home Appliances,Coimbatore,Tamil Nadu,1352992,8,C0021,New,Female,22,Cash
+03-Oct-2025,Mouse,Electronics,Delhi,Delhi,2405907,7,C0376,Returning,Male,39,Credit Card
+09-Jan-2025,Mixer Grinder,Home Appliances,Kolkata,West Bengal,579411,3,C0373,New,Male,49,EMI
+12-Jan-2025,Microwave,Home Appliances,Kolkata,West Bengal,2187290,7,C0334,Returning,Female,53,EMI
+01-Oct-2025,Tablet,Electronics,Ahmedabad,Gujarat,293916,4,C0230,Returning,Female,35,EMI
+30-Dec-2025,Refrigerator,Home Appliances,Pune,Maharashtra,915335,5,C0034,New,Female,46,Debit Card
+02-Dec-2025,Headphones,Electronics,Kolkata,West Bengal,580580,5,C0364,Returning,Female,61,UPI
+18-Mar-2025,Monitor,Electronics,Coimbatore,Tamil Nadu,1233477,7,C0259,Returning,Female,27,EMI
+06-Apr-2025,Mixer Grinder,Home Appliances,Ahmedabad,Gujarat,311448,6,C0368,Returning,Male,41,UPI
+16-Jan-2025,Monitor,Electronics,Kochi,Kerala,993692,7,C0178,Returning,Female,50,Credit Card
+01-Sep-2025,Refrigerator,Home Appliances,Bengaluru,Karnataka,336328,2,C0032,Returning,Female,30,Credit Card
+15-Jul-2025,Wardrobe,Furniture,Chennai,Tamil Nadu,2054157,7,C0378,Returning,Female,54,Cash
+04-Jan-2025,Refrigerator,Home Appliances,Bengaluru,Karnataka,336131,1,C0144,Returning,Male,37,Credit Card
+28-Apr-2025,Refrigerator,Home Appliances,Kolkata,West Bengal,1348788,4,C0182,Returning,Female,47,EMI
+17-Feb-2025,Refrigerator,Home Appliances,Pune,Maharashtra,288436,1,C0355,New,Male,47,Debit Card
+02-Mar-2025,SSD,Electronics,Kolkata,West Bengal,246060,4,C0161,Returning,Female,51,Net Banking
+13-Jun-2025,Refrigerator,Home Appliances,Mumbai,Maharashtra,227532,1,C0174,Returning,Female,27,Credit Card
+15-Mar-2025,SSD,Electronics,Kochi,Kerala,685722,6,C0319,New,Male,29,Debit Card
+06-Apr-2025,Wardrobe,Furniture,Bengaluru,Karnataka,95722,2,C0162,Returning,Male,57,UPI
+22-Jun-2025,Smart Watch,Electronics,Mumbai,Maharashtra,1185588,4,C0237,New,Female,21,Debit Card
+09-Oct-2025,Microwave,Home Appliances,Chennai,Tamil Nadu,243552,8,C0095,Returning,Female,55,UPI
+11-Jan-2025,Gaming Laptop,Electronics,Mumbai,Maharashtra,1395597,7,C0323,New,Female,61,Credit Card
+04-Aug-2025,Gaming Laptop,Electronics,Delhi,Delhi,443160,8,C0208,New,Female,61,UPI
+19-Feb-2025,Refrigerator,Home Appliances,Coimbatore,Tamil Nadu,2366406,7,C0314,Returning,Male,33,UPI
+27-Apr-2025,Mobile,Electronics,Kochi,Kerala,744712,8,C0081,New,Male,54,UPI
+15-Nov-2025,Air Fryer,Home Appliances,Coimbatore,Tamil Nadu,237038,1,C0268,Returning,Male,28,EMI
+17-Feb-2025,Headphones,Electronics,Mumbai,Maharashtra,1046550,6,C0263,Returning,Female,63,Credit Card
+22-Apr-2025,Microwave,Home Appliances,Chennai,Tamil Nadu,99984,4,C0073,Returning,Male,51,Net Banking
+13-Nov-2025,Keyboard,Electronics,Chennai,Tamil Nadu,524845,5,C0010,New,Female,38,Credit Card
+15-Jun-2025,Wardrobe,Furniture,Kolkata,West Bengal,358505,5,C0186,New,Male,18,Net Banking
+09-May-2025,Study Desk,Furniture,Bengaluru,Karnataka,903960,5,C0210,Returning,Female,38,Net Banking
+05-Feb-2025,Wardrobe,Furniture,Ahmedabad,Gujarat,1141752,4,C0341,Returning,Male,47,Credit Card
+13-Nov-2025,Office Chair,Furniture,Bengaluru,Karnataka,59385,1,C0181,New,Female,36,Cash
+07-Dec-2025,Bookshelf,Furniture,Hyderabad,Telangana,607578,3,C0013,Returning,Female,27,Net Banking
+06-Oct-2025,Wardrobe,Furniture,Ahmedabad,Gujarat,286392,4,C0106,Returning,Female,58,EMI
+03-Feb-2025,Camera,Electronics,Mumbai,Maharashtra,771366,6,C0172,Returning,Male,31,Debit Card
+08-Jan-2025,Mouse,Electronics,Hyderabad,Telangana,915275,5,C0054,New,Female,20,Cash
+31-Jul-2025,Dining Table,Furniture,Coimbatore,Tamil Nadu,1775319,7,C0096,Returning,Male,57,Net Banking
+16-Nov-2025,Monitor,Electronics,Ahmedabad,Gujarat,2519768,8,C0203,Returning,Female,53,UPI
+25-Mar-2025,SSD,Electronics,Coimbatore,Tamil Nadu,2001078,6,C0307,Returning,Female,49,UPI
+26-Feb-2025,Bookshelf,Furniture,Coimbatore,Tamil Nadu,2730848,8,C0266,New,Female,57,Net Banking
+15-Dec-2025,Refrigerator,Home Appliances,Pune,Maharashtra,486952,2,C0190,New,Female,51,EMI
+27-Feb-2025,Printer,Electronics,Kochi,Kerala,84223,1,C0379,New,Male,30,Cash
+14-Apr-2025,Gaming Laptop,Electronics,Ahmedabad,Gujarat,30617,1,C0099,New,Female,55,Cash
+11-Apr-2025,Tablet,Electronics,Coimbatore,Tamil Nadu,689220,2,C0364,New,Male,42,EMI
+12-Mar-2025,Mouse,Electronics,Delhi,Delhi,722925,5,C0004,Returning,Female,27,Net Banking
+29-Jul-2025,Washing Machine,Home Appliances,Chennai,Tamil Nadu,390592,8,C0378,New,Male,18,Credit Card
+01-May-2025,Smart Watch,Electronics,Kochi,Kerala,168555,1,C0157,Returning,Male,30,Net Banking
+21-Mar-2025,Air Conditioner,Home Appliances,Coimbatore,Tamil Nadu,1143144,6,C0087,New,Female,55,Debit Card
+18-Jan-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,1344600,6,C0391,New,Female,20,EMI
+09-May-2025,Mixer Grinder,Home Appliances,Mumbai,Maharashtra,118908,2,C0253,Returning,Male,62,UPI
+17-Apr-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,2013112,8,C0390,New,Female,62,Credit Card
+05-Aug-2025,Study Desk,Furniture,Kolkata,West Bengal,348065,1,C0123,New,Male,64,Net Banking
+08-Oct-2025,Wardrobe,Furniture,Pune,Maharashtra,1442777,7,C0070,New,Male,25,Credit Card
+16-Apr-2025,Dining Table,Furniture,Bengaluru,Karnataka,322820,4,C0222,Returning,Male,60,Credit Card
+28-Sep-2025,Smart TV,Electronics,Mumbai,Maharashtra,522910,5,C0069,Returning,Male,27,Cash
+03-Sep-2025,Monitor,Electronics,Kochi,Kerala,2602224,8,C0161,New,Female,34,Credit Card
+03-Apr-2025,Office Chair,Furniture,Kochi,Kerala,1752900,6,C0394,Returning,Male,65,UPI
+18-Oct-2025,Smart TV,Electronics,Bengaluru,Karnataka,698454,3,C0048,Returning,Female,33,Debit Card
+21-Aug-2025,Washing Machine,Home Appliances,Bengaluru,Karnataka,1009519,7,C0169,Returning,Female,31,Net Banking
+20-Jan-2025,Bookshelf,Furniture,Mumbai,Maharashtra,521297,7,C0116,Returning,Female,55,Cash
+05-Aug-2025,Study Desk,Furniture,Coimbatore,Tamil Nadu,1934170,7,C0234,Returning,Female,48,Debit Card
+19-Apr-2025,Printer,Electronics,Kochi,Kerala,252948,2,C0161,New,Female,65,Net Banking
+16-Mar-2025,Dining Table,Furniture,Pune,Maharashtra,1931124,6,C0350,Returning,Male,25,UPI
+25-Sep-2025,Smart TV,Electronics,Kolkata,West Bengal,687098,2,C0234,New,Male,54,Cash
+26-Sep-2025,Air Fryer,Home Appliances,Chennai,Tamil Nadu,487234,2,C0111,Returning,Female,61,UPI
+23-Oct-2025,Mixer Grinder,Home Appliances,Coimbatore,Tamil Nadu,1018995,3,C0015,Returning,Male,62,Cash
+01-Jul-2025,Study Desk,Furniture,Chennai,Tamil Nadu,547524,4,C0198,Returning,Male,63,Net Banking
+08-Jan-2025,Office Chair,Furniture,Hyderabad,Telangana,358110,6,C0097,Returning,Female,37,Net Banking
+19-Dec-2025,Headphones,Electronics,Mumbai,Maharashtra,1655214,6,C0016,Returning,Female,22,UPI
+02-May-2025,Microwave,Home Appliances,Ahmedabad,Gujarat,553135,5,C0043,New,Male,50,EMI
+09-Dec-2025,Dining Table,Furniture,Delhi,Delhi,188625,3,C0173,New,Female,25,Net Banking
+23-Oct-2025,Washing Machine,Home Appliances,Coimbatore,Tamil Nadu,666239,7,C0246,New,Male,60,Net Banking
+21-Apr-2025,Washing Machine,Home Appliances,Delhi,Delhi,918243,3,C0046,New,Male,25,Cash
+21-Sep-2025,Gaming Laptop,Electronics,Pune,Maharashtra,1816056,8,C0304,Returning,Female,65,Debit Card
+03-Aug-2025,Washing Machine,Home Appliances,Chennai,Tamil Nadu,1117991,7,C0225,New,Male,24,Cash
+23-May-2025,Laptop,Electronics,Mumbai,Maharashtra,2742896,8,C0257,Returning,Female,33,UPI
+01-Jul-2025,Bookshelf,Furniture,Hyderabad,Telangana,1106568,8,C0104,New,Male,25,Net Banking
+08-Feb-2025,Study Desk,Furniture,Delhi,Delhi,525342,3,C0137,New,Male,51,Cash
+01-Feb-2025,Air Fryer,Home Appliances,Chennai,Tamil Nadu,1419712,7,C0287,New,Female,45,Debit Card
+29-Oct-2025,Monitor,Electronics,Delhi,Delhi,1108926,6,C0283,Returning,Male,30,UPI
+11-Jun-2025,Monitor,Electronics,Hyderabad,Telangana,725190,3,C0349,New,Male,41,EMI
+17-Aug-2025,Mixer Grinder,Home Appliances,Ahmedabad,Gujarat,263830,5,C0373,Returning,Female,51,EMI
+15-May-2025,Study Desk,Furniture,Pune,Maharashtra,545314,2,C0148,Returning,Male,28,Cash
+01-Feb-2025,Wardrobe,Furniture,Pune,Maharashtra,316479,3,C0254,Returning,Male,44,EMI
+13-Oct-2025,Mouse,Electronics,Kolkata,West Bengal,1722700,5,C0289,Returning,Male,46,Credit Card
+20-Jun-2025,Mixer Grinder,Home Appliances,Mumbai,Maharashtra,246045,3,C0326,New,Male,39,UPI
+29-Nov-2025,Smart TV,Electronics,Chennai,Tamil Nadu,475692,7,C0270,Returning,Male,20,Debit Card
+22-Jun-2025,Monitor,Electronics,Pune,Maharashtra,1625820,6,C0304,New,Male,26,Net Banking
+29-Nov-2025,Mobile,Electronics,Kochi,Kerala,921438,3,C0304,New,Female,52,Cash
+02-Jan-2025,Smart TV,Electronics,Delhi,Delhi,273640,2,C0004,Returning,Male,18,Net Banking
+12-May-2025,Camera,Electronics,Kochi,Kerala,987507,3,C0217,New,Female,51,Credit Card
+04-Apr-2025,Bookshelf,Furniture,Bengaluru,Karnataka,1538742,6,C0163,Returning,Female,34,Credit Card
+15-Oct-2025,Air Fryer,Home Appliances,Mumbai,Maharashtra,1520424,8,C0261,Returning,Male,38,EMI
+24-Feb-2025,Camera,Electronics,Delhi,Delhi,386796,2,C0306,Returning,Male,22,EMI
+30-Oct-2025,Office Chair,Furniture,Kochi,Kerala,1827918,6,C0275,Returning,Female,48,UPI
+29-Nov-2025,Keyboard,Electronics,Hyderabad,Telangana,243632,1,C0340,Returning,Female,44,Credit Card
+27-Nov-2025,Wardrobe,Furniture,Pune,Maharashtra,1233561,7,C0262,New,Male,54,Credit Card
+27-May-2025,Mixer Grinder,Home Appliances,Coimbatore,Tamil Nadu,433533,3,C0387,Returning,Female,62,UPI
+03-Jan-2025,Washing Machine,Home Appliances,Coimbatore,Tamil Nadu,160863,3,C0132,New,Female,42,EMI
+04-Mar-2025,Study Desk,Furniture,Chennai,Tamil Nadu,1279159,7,C0200,Returning,Male,27,Credit Card
+01-Apr-2025,Printer,Electronics,Coimbatore,Tamil Nadu,31974,2,C0365,Returning,Male,38,EMI
+18-Jun-2025,Study Desk,Furniture,Kochi,Kerala,210390,2,C0144,Returning,Male,64,Cash
+04-May-2025,Washing Machine,Home Appliances,Hyderabad,Telangana,1516465,5,C0131,New,Male,40,Credit Card
+29-Jun-2025,Air Fryer,Home Appliances,Kochi,Kerala,310209,3,C0265,New,Male,20,Credit Card
+22-Jul-2025,Refrigerator,Home Appliances,Chennai,Tamil Nadu,556818,6,C0317,New,Female,32,EMI
+29-Jun-2025,Wardrobe,Furniture,Hyderabad,Telangana,269696,8,C0367,Returning,Female,45,Net Banking
+19-Jul-2025,Keyboard,Electronics,Mumbai,Maharashtra,691422,3,C0365,New,Male,33,Debit Card
+17-Aug-2025,Gaming Laptop,Electronics,Kolkata,West Bengal,155358,7,C0040,New,Male,43,UPI
+08-Jan-2025,Air Fryer,Home Appliances,Delhi,Delhi,190626,6,C0037,Returning,Male,30,Net Banking
+03-Sep-2025,Mouse,Electronics,Kochi,Kerala,216706,7,C0155,Returning,Female,47,Net Banking
+23-Nov-2025,Wardrobe,Furniture,Pune,Maharashtra,598540,5,C0373,New,Female,45,UPI
+23-Jun-2025,Smart Watch,Electronics,Kochi,Kerala,1903746,6,C0131,New,Male,24,Debit Card
+15-Dec-2025,Office Chair,Furniture,Mumbai,Maharashtra,1168770,6,C0138,New,Female,56,UPI
+21-May-2025,Microwave,Home Appliances,Kolkata,West Bengal,591754,2,C0275,Returning,Male,36,EMI
+09-Aug-2025,Study Desk,Furniture,Mumbai,Maharashtra,915096,7,C0352,New,Female,61,UPI
+27-Jan-2025,Washing Machine,Home Appliances,Ahmedabad,Gujarat,2414648,8,C0112,New,Male,31,Credit Card
+25-Dec-2025,Air Conditioner,Home Appliances,Hyderabad,Telangana,321622,1,C0086,Returning,Female,33,Debit Card
+27-Sep-2025,Bookshelf,Furniture,Bengaluru,Karnataka,2145157,7,C0176,Returning,Female,61,UPI
